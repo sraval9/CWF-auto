@@ -1,0 +1,290 @@
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200511_1618.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200511_1633.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200511_1688.txt'
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200511_1785.txt'
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200511_1885.txt'
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200511_1985.txt'
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_-55.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_0.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_15.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_30.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_45.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_100.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_115.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_130.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_145.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_200.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_215.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_230.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_245.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_300.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_315.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_330.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_345.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_400.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_415.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_430.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_445.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_500.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_515.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_530.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_545.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_600.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_615.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_630.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_645.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_700.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_715.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_730.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_745.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_800.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_815.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_830.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_845.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_900.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_915.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_930.txt'
+Traceback (most recent call last):
+  File "/home/octeam/CWF_automation/Mytest/dashboard.py", line 130, in <module>
+    with open(read_CWAG1_txt, 'r') as file1, open(read_CWAG2_txt, 'r') as file5, open(read_FeG1_txt, 'r') as file3, open(read_FeG2_txt, 'r') as file4:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/octeam/Logs/CWAG1/20200512_945.txt'
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 0, 'Accounting Response': 0}

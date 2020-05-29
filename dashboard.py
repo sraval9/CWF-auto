@@ -1,4 +1,5 @@
 import datetime, subprocess
+from get_docker_tag import main
 
 def writeKPI(date1,time1, kpi_CWAG1, kpi_CWAG2):
     #base_path = '/Users/sraval/Documents/Old_docs/FB_SFE/'
@@ -7,6 +8,8 @@ def writeKPI(date1,time1, kpi_CWAG1, kpi_CWAG2):
     #symlink_CWAG2_html = 'ln -s ' + CWAG2_html_file + ' /var/www/html/Logs/dashboard.html'
     #q_CWAG2_html = subprocess.run(symlink_CWAG2_html, shell = True)
     CWAG2_html_file = '/var/www/html/Logs/dashboard.html'
+    cwag1_tag, cwag2_tag = main()
+    #print (tag)
 
     html_template = '''
     <!DOCTYPE html>
@@ -27,7 +30,7 @@ def writeKPI(date1,time1, kpi_CWAG1, kpi_CWAG2):
                 <td>
                     <table border = '1', style='width:100%'>
                         <tr>
-                            <th colspan='6'>CWAG1</th>
+                            <th colspan='6'>CWAG1-{13}</th>
                         </tr>
                         <tr>
                             <td>Access Req</td>
@@ -47,7 +50,7 @@ def writeKPI(date1,time1, kpi_CWAG1, kpi_CWAG2):
                         </tr>
 
                         <tr>
-                            <th colspan='6'>CWAG2</th>
+                            <th colspan='6'>CWAG2-{14}</th>
                         </tr>
                         <tr>
                             <td>Access Req</td>
@@ -75,7 +78,7 @@ def writeKPI(date1,time1, kpi_CWAG1, kpi_CWAG2):
     '''
 
     date_time = date1 + '_' + time1
-    html_string = html_template.format(date_time, kpi_table_CWAG1['Access Request'], kpi_table_CWAG1['Access Challange'], kpi_table_CWAG1['Access Accept'], kpi_table_CWAG1['Access Reject'], kpi_table_CWAG1['Accounting Request'], kpi_table_CWAG1['Accounting Response'], kpi_table_CWAG2['Access Request'], kpi_table_CWAG2['Access Challange'], kpi_table_CWAG2['Access Accept'], kpi_table_CWAG2['Access Reject'], kpi_table_CWAG2['Accounting Request'], kpi_table_CWAG2['Accounting Response'])
+    html_string = html_template.format(date_time, kpi_table_CWAG1['Access Request'], kpi_table_CWAG1['Access Challange'], kpi_table_CWAG1['Access Accept'], kpi_table_CWAG1['Access Reject'], kpi_table_CWAG1['Accounting Request'], kpi_table_CWAG1['Accounting Response'], kpi_table_CWAG2['Access Request'], kpi_table_CWAG2['Access Challange'], kpi_table_CWAG2['Access Accept'], kpi_table_CWAG2['Access Reject'], kpi_table_CWAG2['Accounting Request'], kpi_table_CWAG2['Accounting Response'], cwag1_tag, cwag2_tag)
 
     with open(CWAG2_html_file, 'r+') as file2:
         old = file2.read() # read everything in the file
@@ -130,7 +133,7 @@ read_CWAG2_txt= '/home/octeam/Logs/CWAG2/' + datedir + '_' + prev_timeslot + '.t
 read_FeG1_txt= '/home/octeam/Logs/FeG1/' + datedir + '_' + prev_timeslot + '.txt'
 read_FeG2_txt= '/home/octeam/Logs/FeG2/' + datedir + '_' + prev_timeslot + '.txt'
 
-radiusCodeArr = ['0','Access Request','Access Accept','3','Accounting Request','Accounting Response', '6', '7', '8', '9', '10', 'Access Challange']
+radiusCodeArr = ['0','Access Request','Access Accept','Access Reject','Accounting Request','Accounting Response', '6', '7', '8', '9', '10', 'Access Challange']
 #radiusAccountStatusTypeArr = ['0', 'Start', 'Stop', 'Interim Update']
 fileArr1 = []
 fileArr2 = []

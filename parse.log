@@ -101,3 +101,3000 @@ tshark: The file "/home/octeam/Logs/FeG2/20200512_0-55.pcap" doesn't exist.
 1615
 1630
 1645
+1700
+1715
+1730
+1745
+1800
+1815
+1830
+1845
+1900
+1915
+1930
+1945
+2000
+2015
+2030
+2045
+2100
+2115
+2130
+2145
+2200
+2215
+2230
+2245
+2300
+2315
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200513_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200513_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200513_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200513_0-55.pcap" doesn't exist.
+0-55
+0000
+0015
+0030
+0045
+0100
+0115
+0130
+0145
+0200
+0215
+0230
+0245
+0300
+0315
+0330
+0345
+0400
+0415
+0430
+0445
+0500
+0515
+0530
+0545
+0600
+0615
+0630
+0645
+0700
+0715
+0730
+0745
+0800
+0815
+0830
+0845
+0900
+0915
+0930
+0945
+1000
+1015
+1030
+1045
+1100
+1115
+1130
+1145
+1200
+1215
+1230
+1245
+1300
+1315
+1330
+1345
+1400
+1415
+1430
+1445
+1500
+1515
+1530
+1545
+1600
+1615
+1630
+1645
+1700
+1715
+1730
+1745
+1800
+1815
+1830
+1845
+1900
+1915
+1930
+1945
+2000
+2015
+2030
+2045
+2100
+2115
+2130
+2145
+2200
+2215
+2230
+2245
+2300
+2315
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200514_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200514_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200514_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200514_0-55.pcap" doesn't exist.
+0-55
+0000
+0015
+0030
+0045
+0100
+0115
+0130
+0145
+0200
+0215
+0230
+0245
+0300
+0315
+0330
+0345
+0400
+0415
+0430
+0445
+0500
+0515
+0530
+0545
+0600
+0615
+0630
+0645
+0700
+0715
+0730
+0745
+0800
+0815
+0830
+0845
+0900
+0915
+0930
+0945
+1000
+1015
+1030
+1045
+1100
+1115
+1130
+1145
+1200
+1215
+1230
+1245
+1300
+1315
+1330
+1345
+1400
+1415
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1430.pcap" appears to be damaged or corrupt.
+(pcap: File has 3903456473-byte packet, bigger than maximum of 262144)
+1430
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1445.pcap" appears to be damaged or corrupt.
+(pcap: File has 3154116677-byte packet, bigger than maximum of 262144)
+1445
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1500.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668707118-byte packet, bigger than maximum of 262144)
+1500
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1515.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668707118-byte packet, bigger than maximum of 262144)
+1515
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1530.pcap" appears to be damaged or corrupt.
+(pcap: File has 1589495414-byte packet, bigger than maximum of 262144)
+1530
+1545
+1600
+1615
+1630
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1645.pcap" appears to be damaged or corrupt.
+(pcap: File has 1811939368-byte packet, bigger than maximum of 262144)
+1645
+1700
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1715.pcap" appears to be damaged or corrupt.
+(pcap: File has 6423040-byte packet, bigger than maximum of 262144)
+1715
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1730.pcap" appears to be damaged or corrupt.
+(pcap: File has 547930226-byte packet, bigger than maximum of 262144)
+1730
+1745
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1800.pcap" appears to be damaged or corrupt.
+(pcap: File has 34998885-byte packet, bigger than maximum of 262144)
+1800
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1815.pcap" appears to be damaged or corrupt.
+(pcap: File has 6165786-byte packet, bigger than maximum of 262144)
+1815
+1830
+1845
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1900.pcap" appears to be damaged or corrupt.
+(pcap: File has 203914754-byte packet, bigger than maximum of 262144)
+1900
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1915.pcap" appears to be damaged or corrupt.
+(pcap: File has 170333706-byte packet, bigger than maximum of 262144)
+1915
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1930.pcap" appears to be damaged or corrupt.
+(pcap: File has 774975536-byte packet, bigger than maximum of 262144)
+1930
+tshark: The file "/home/octeam/Logs/FeG1/20200514_1945.pcap" appears to be damaged or corrupt.
+(pcap: File has 1818321775-byte packet, bigger than maximum of 262144)
+1945
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2000.pcap" appears to be damaged or corrupt.
+(pcap: File has 4521992-byte packet, bigger than maximum of 262144)
+2000
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2015.pcap" appears to be damaged or corrupt.
+(pcap: File has 738197568-byte packet, bigger than maximum of 262144)
+2015
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2030.pcap" appears to be damaged or corrupt.
+(pcap: File has 547930133-byte packet, bigger than maximum of 262144)
+2030
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2045.pcap" appears to be damaged or corrupt.
+(pcap: File has 273714736-byte packet, bigger than maximum of 262144)
+2045
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2100.pcap" appears to be damaged or corrupt.
+(pcap: File has 3229512710-byte packet, bigger than maximum of 262144)
+2100
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2115.pcap" appears to be damaged or corrupt.
+(pcap: File has 4521992-byte packet, bigger than maximum of 262144)
+2115
+2130
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2145.pcap" appears to be damaged or corrupt.
+(pcap: File has 4196353-byte packet, bigger than maximum of 262144)
+2145
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2200.pcap" appears to be damaged or corrupt.
+(pcap: File has 1818439267-byte packet, bigger than maximum of 262144)
+2200
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2215.pcap" appears to be damaged or corrupt.
+(pcap: File has 1387266048-byte packet, bigger than maximum of 262144)
+2215
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2230.pcap" appears to be damaged or corrupt.
+(pcap: File has 1869360754-byte packet, bigger than maximum of 262144)
+2230
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2245.pcap" appears to be damaged or corrupt.
+(pcap: File has 145184862-byte packet, bigger than maximum of 262144)
+2245
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2300.pcap" appears to be damaged or corrupt.
+(pcap: File has 607387648-byte packet, bigger than maximum of 262144)
+2300
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2315.pcap" appears to be damaged or corrupt.
+(pcap: File has 6103716-byte packet, bigger than maximum of 262144)
+2315
+tshark: The file "/home/octeam/Logs/FeG1/20200514_2330.pcap" appears to be damaged or corrupt.
+(pcap: File has 4288187392-byte packet, bigger than maximum of 262144)
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200515_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200515_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200515_0-55.pcap" doesn't exist.
+0-55
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0000.pcap" appears to be damaged or corrupt.
+(pcap: File has 838993408-byte packet, bigger than maximum of 262144)
+0000
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0015.pcap" appears to be damaged or corrupt.
+(pcap: File has 1952804464-byte packet, bigger than maximum of 262144)
+0015
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0030.pcap" appears to be damaged or corrupt.
+(pcap: File has 1735552814-byte packet, bigger than maximum of 262144)
+0030
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0045.pcap" appears to be damaged or corrupt.
+(pcap: File has 4288158735-byte packet, bigger than maximum of 262144)
+0045
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0100.pcap" appears to be damaged or corrupt.
+(pcap: File has 2013266688-byte packet, bigger than maximum of 262144)
+0100
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0115.pcap" appears to be damaged or corrupt.
+(pcap: File has 1952804464-byte packet, bigger than maximum of 262144)
+0115
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0130.pcap" appears to be damaged or corrupt.
+(pcap: File has 617849861-byte packet, bigger than maximum of 262144)
+0130
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0145.pcap" appears to be damaged or corrupt.
+(pcap: File has 1919889003-byte packet, bigger than maximum of 262144)
+0145
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0200.pcap" appears to be damaged or corrupt.
+(pcap: File has 369763872-byte packet, bigger than maximum of 262144)
+0200
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0215.pcap" appears to be damaged or corrupt.
+(pcap: File has 2582417898-byte packet, bigger than maximum of 262144)
+0215
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0230.pcap" appears to be damaged or corrupt.
+(pcap: File has 1230945889-byte packet, bigger than maximum of 262144)
+0230
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0245.pcap" appears to be damaged or corrupt.
+(pcap: File has 23330816-byte packet, bigger than maximum of 262144)
+0245
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0300.pcap" appears to have been cut short in the middle of a packet.
+0300
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0315.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777216-byte packet, bigger than maximum of 262144)
+0315
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0330.pcap" appears to be damaged or corrupt.
+(pcap: File has 134217919-byte packet, bigger than maximum of 262144)
+0330
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0345.pcap" appears to be damaged or corrupt.
+(pcap: File has 369781694-byte packet, bigger than maximum of 262144)
+0345
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0400.pcap" appears to be damaged or corrupt.
+(pcap: File has 449131010-byte packet, bigger than maximum of 262144)
+0400
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0415.pcap" appears to be damaged or corrupt.
+(pcap: File has 12572367-byte packet, bigger than maximum of 262144)
+0415
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0430.pcap" appears to be damaged or corrupt.
+(pcap: File has 3195881472-byte packet, bigger than maximum of 262144)
+0430
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0445.pcap" appears to be damaged or corrupt.
+(pcap: File has 778270323-byte packet, bigger than maximum of 262144)
+0445
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0500.pcap" appears to be damaged or corrupt.
+(pcap: File has 959531418-byte packet, bigger than maximum of 262144)
+0500
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0515.pcap" appears to be damaged or corrupt.
+(pcap: File has 825241699-byte packet, bigger than maximum of 262144)
+0515
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0530.pcap" appears to be damaged or corrupt.
+(pcap: File has 67108864-byte packet, bigger than maximum of 262144)
+0530
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0545.pcap" appears to be damaged or corrupt.
+(pcap: File has 778793583-byte packet, bigger than maximum of 262144)
+0545
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0600.pcap" appears to be damaged or corrupt.
+(pcap: File has 808530023-byte packet, bigger than maximum of 262144)
+0600
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0615.pcap" appears to be damaged or corrupt.
+(pcap: File has 778270323-byte packet, bigger than maximum of 262144)
+0615
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0630.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777310-byte packet, bigger than maximum of 262144)
+0630
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0645.pcap" appears to be damaged or corrupt.
+(pcap: File has 369788053-byte packet, bigger than maximum of 262144)
+0645
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0700.pcap" appears to be damaged or corrupt.
+(pcap: File has 838993408-byte packet, bigger than maximum of 262144)
+0700
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0715.pcap" appears to be damaged or corrupt.
+(pcap: File has 1952804464-byte packet, bigger than maximum of 262144)
+0715
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0730.pcap" appears to be damaged or corrupt.
+(pcap: File has 3766486528-byte packet, bigger than maximum of 262144)
+0730
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0745.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885811502-byte packet, bigger than maximum of 262144)
+0745
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0800.pcap" appears to be damaged or corrupt.
+(pcap: File has 3506896896-byte packet, bigger than maximum of 262144)
+0800
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0815.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885811502-byte packet, bigger than maximum of 262144)
+0815
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0830.pcap" appears to be damaged or corrupt.
+(pcap: File has 2147483648-byte packet, bigger than maximum of 262144)
+0830
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0845.pcap" appears to be damaged or corrupt.
+(pcap: File has 6165786-byte packet, bigger than maximum of 262144)
+0845
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0900.pcap" appears to be damaged or corrupt.
+(pcap: File has 253497126-byte packet, bigger than maximum of 262144)
+0900
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0915.pcap" appears to be damaged or corrupt.
+(pcap: File has 547930255-byte packet, bigger than maximum of 262144)
+0915
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0930.pcap" appears to be damaged or corrupt.
+(pcap: File has 1258291200-byte packet, bigger than maximum of 262144)
+0930
+tshark: The file "/home/octeam/Logs/FeG1/20200515_0945.pcap" appears to be damaged or corrupt.
+(pcap: File has 1697543027-byte packet, bigger than maximum of 262144)
+0945
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1000.pcap" appears to be damaged or corrupt.
+(pcap: File has 1399259136-byte packet, bigger than maximum of 262144)
+1000
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1015.pcap" appears to be damaged or corrupt.
+(pcap: File has 778268773-byte packet, bigger than maximum of 262144)
+1015
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1030.pcap" appears to be damaged or corrupt.
+(pcap: File has 354075954-byte packet, bigger than maximum of 262144)
+1030
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1045.pcap" appears to be damaged or corrupt.
+(pcap: File has 1830748160-byte packet, bigger than maximum of 262144)
+1045
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1100.pcap" appears to be damaged or corrupt.
+(pcap: File has 3260989144-byte packet, bigger than maximum of 262144)
+1100
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1115.pcap" appears to be damaged or corrupt.
+(pcap: File has 223612766-byte packet, bigger than maximum of 262144)
+1115
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1130.pcap" appears to be damaged or corrupt.
+(pcap: File has 3004479760-byte packet, bigger than maximum of 262144)
+1130
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1145.pcap" appears to be damaged or corrupt.
+(pcap: File has 269631522-byte packet, bigger than maximum of 262144)
+1145
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1200.pcap" appears to be damaged or corrupt.
+(pcap: File has 1589403148-byte packet, bigger than maximum of 262144)
+1200
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1215.pcap" appears to be damaged or corrupt.
+(pcap: File has 3749091840-byte packet, bigger than maximum of 262144)
+1215
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1230.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885811502-byte packet, bigger than maximum of 262144)
+1230
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1245.pcap" appears to be damaged or corrupt.
+(pcap: File has 14145623-byte packet, bigger than maximum of 262144)
+1245
+1300
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1315.pcap" appears to be damaged or corrupt.
+(pcap: File has 1108241429-byte packet, bigger than maximum of 262144)
+1315
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1330.pcap" appears to be damaged or corrupt.
+(pcap: File has 778268773-byte packet, bigger than maximum of 262144)
+1330
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1345.pcap" appears to be damaged or corrupt.
+(pcap: File has 774975536-byte packet, bigger than maximum of 262144)
+1345
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1400.pcap" appears to be damaged or corrupt.
+(pcap: File has 16810088-byte packet, bigger than maximum of 262144)
+1400
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1415.pcap" appears to be damaged or corrupt.
+(pcap: File has 106233856-byte packet, bigger than maximum of 262144)
+1415
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1430.pcap" appears to be damaged or corrupt.
+(pcap: File has 10150820-byte packet, bigger than maximum of 262144)
+1430
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1445.pcap" appears to be damaged or corrupt.
+(pcap: File has 2031490570-byte packet, bigger than maximum of 262144)
+1445
+1500
+1515
+1530
+1545
+1600
+1615
+1630
+1645
+1700
+1715
+1730
+1745
+1800
+1815
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1830.pcap" appears to be damaged or corrupt.
+(pcap: File has 201460224-byte packet, bigger than maximum of 262144)
+1830
+tshark: The file "/home/octeam/Logs/FeG1/20200515_1845.pcap" appears to be damaged or corrupt.
+(pcap: File has 1073873152-byte packet, bigger than maximum of 262144)
+1845
+1900
+1915
+1930
+1945
+2000
+2015
+2030
+2045
+2100
+2115
+2130
+2145
+2200
+2215
+2230
+2245
+2300
+2315
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200516_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200516_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200516_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200516_0-55.pcap" doesn't exist.
+0-55
+0000
+0015
+0030
+0045
+0100
+0115
+0130
+0145
+0200
+0215
+0230
+0245
+0300
+0315
+0330
+0345
+0400
+0415
+0430
+0445
+0500
+0515
+0530
+0545
+0600
+0615
+0630
+0645
+0700
+0715
+0730
+0745
+0800
+0815
+0830
+0845
+0900
+0915
+0930
+0945
+1000
+1015
+1030
+1045
+1100
+1115
+1130
+1145
+1200
+1215
+1230
+1245
+1300
+1315
+1330
+1345
+1400
+1415
+1430
+1445
+1500
+1515
+1530
+1545
+1600
+1615
+1630
+1645
+1700
+1715
+1730
+1745
+1800
+1815
+1830
+1845
+1900
+1915
+1930
+1945
+2000
+2015
+2030
+2045
+2100
+2115
+2130
+2145
+2200
+2215
+2230
+2245
+2300
+2315
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200517_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200517_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200517_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200517_0-55.pcap" doesn't exist.
+0-55
+0000
+0015
+0030
+0045
+0100
+0115
+0130
+0145
+0200
+0215
+0230
+0245
+0300
+0315
+0330
+0345
+0400
+0415
+0430
+0445
+0500
+0515
+0530
+0545
+0600
+0615
+0630
+0645
+0700
+0715
+0730
+0745
+0800
+0815
+0830
+0845
+0900
+0915
+0930
+0945
+1000
+1015
+1030
+1045
+1100
+1115
+1130
+1145
+1200
+1215
+1230
+1245
+1300
+1315
+1330
+1345
+1400
+1415
+1430
+1445
+1500
+1515
+1530
+1545
+1600
+1615
+1630
+1645
+1700
+1715
+1730
+1745
+1800
+1815
+1830
+1845
+1900
+1915
+1930
+1945
+2000
+2015
+2030
+2045
+2100
+2115
+2130
+2145
+2200
+2215
+2230
+2245
+2300
+2315
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200518_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200518_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200518_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200518_0-55.pcap" doesn't exist.
+0-55
+0000
+0015
+0030
+0045
+0100
+0115
+0130
+0145
+0200
+0215
+0230
+0245
+0300
+0315
+0330
+0345
+0400
+0415
+0430
+0445
+0500
+0515
+0530
+0545
+0600
+0615
+0630
+0645
+0700
+0715
+0730
+0745
+0800
+0815
+0830
+0845
+0900
+0915
+0930
+0945
+1000
+1015
+1030
+1045
+1100
+1115
+1130
+1145
+1200
+1215
+1230
+1245
+1300
+1315
+1330
+1345
+1400
+1415
+1430
+1445
+1500
+1515
+1530
+1545
+1600
+1615
+1630
+1645
+1700
+1715
+1730
+1745
+1800
+1815
+1830
+1845
+1900
+1915
+1930
+1945
+2000
+2015
+2030
+2045
+2100
+2115
+2130
+2145
+2200
+2215
+2230
+2245
+2300
+2315
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200519_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200519_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200519_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200519_0-55.pcap" doesn't exist.
+0-55
+0000
+0015
+0030
+0045
+0100
+0115
+0130
+0145
+0200
+0215
+0230
+0245
+0300
+0315
+0330
+0345
+0400
+0415
+0430
+0445
+0500
+0515
+0530
+0545
+0600
+0615
+0630
+0645
+0700
+0715
+0730
+0745
+0800
+0815
+0830
+0845
+0900
+0915
+0930
+0945
+1000
+1015
+1030
+1045
+1100
+1115
+tshark: The file "/home/octeam/Logs/FeG1/20200519_1130.pcap" appears to have been cut short in the middle of a packet.
+1130
+1145
+1200
+1215
+1230
+1245
+1300
+1315
+1330
+1345
+1400
+1415
+1430
+1445
+1500
+1515
+1530
+1545
+1600
+1615
+1630
+1645
+1700
+1715
+1730
+1745
+1800
+1815
+1830
+1845
+1900
+1915
+1930
+1945
+2000
+2015
+2030
+2045
+2100
+tshark: The file "/home/octeam/Logs/FeG1/20200519_2115.pcap" appears to be damaged or corrupt.
+(pcap: File has 67108864-byte packet, bigger than maximum of 262144)
+2115
+tshark: The file "/home/octeam/Logs/FeG1/20200519_2130.pcap" appears to be damaged or corrupt.
+(pcap: File has 2585661212-byte packet, bigger than maximum of 262144)
+2130
+tshark: The file "/home/octeam/Logs/FeG1/20200519_2145.pcap" appears to be damaged or corrupt.
+(pcap: File has 3607218062-byte packet, bigger than maximum of 262144)
+2145
+tshark: The file "/home/octeam/Logs/FeG1/20200519_2200.pcap" appears to be damaged or corrupt.
+(pcap: File has 1886414643-byte packet, bigger than maximum of 262144)
+2200
+tshark: The file "/home/octeam/Logs/FeG1/20200519_2215.pcap" appears to be damaged or corrupt.
+(pcap: File has 369491969-byte packet, bigger than maximum of 262144)
+2215
+tshark: The file "/home/octeam/Logs/FeG1/20200519_2230.pcap" appears to be damaged or corrupt.
+(pcap: File has 4537600-byte packet, bigger than maximum of 262144)
+2230
+tshark: The file "/home/octeam/Logs/FeG1/20200519_2245.pcap" appears to be damaged or corrupt.
+(pcap: File has 520093760-byte packet, bigger than maximum of 262144)
+2245
+tshark: The file "/home/octeam/Logs/FeG1/20200519_2300.pcap" appears to be damaged or corrupt.
+(pcap: File has 1351101673-byte packet, bigger than maximum of 262144)
+2300
+tshark: The file "/home/octeam/Logs/FeG1/20200519_2315.pcap" appears to be damaged or corrupt.
+(pcap: File has 345960470-byte packet, bigger than maximum of 262144)
+2315
+tshark: The file "/home/octeam/Logs/FeG1/20200519_2330.pcap" appears to be damaged or corrupt.
+(pcap: File has 520093760-byte packet, bigger than maximum of 262144)
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200520_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200520_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200520_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200520_0-55.pcap" doesn't exist.
+0-55
+tshark: The file "/home/octeam/Logs/FeG1/20200520_0000.pcap" appears to be damaged or corrupt.
+(pcap: File has 10485760-byte packet, bigger than maximum of 262144)
+0000
+tshark: The file "/home/octeam/Logs/FeG1/20200520_0015.pcap" appears to be damaged or corrupt.
+(pcap: File has 547930327-byte packet, bigger than maximum of 262144)
+0015
+tshark: The file "/home/octeam/Logs/FeG1/20200520_0030.pcap" appears to be damaged or corrupt.
+(pcap: File has 1919119406-byte packet, bigger than maximum of 262144)
+0030
+tshark: The file "/home/octeam/Logs/FeG1/20200520_0045.pcap" appears to be damaged or corrupt.
+(pcap: File has 2154299392-byte packet, bigger than maximum of 262144)
+0045
+tshark: The file "/home/octeam/Logs/FeG1/20200520_0100.pcap" appears to be damaged or corrupt.
+(pcap: File has 289196032-byte packet, bigger than maximum of 262144)
+0100
+tshark: The file "/home/octeam/Logs/FeG1/20200520_0115.pcap" appears to be damaged or corrupt.
+(pcap: File has 1734698535-byte packet, bigger than maximum of 262144)
+0115
+tshark: The file "/home/octeam/Logs/FeG1/20200520_0130.pcap" appears to be damaged or corrupt.
+(pcap: File has 2300317470-byte packet, bigger than maximum of 262144)
+0130
+tshark: The file "/home/octeam/Logs/CWAG1/20200520_0145.pcap" appears to be damaged or corrupt.
+(pcap: File has 2159312939-byte packet, bigger than maximum of 262144)
+tshark: The file "/home/octeam/Logs/FeG1/20200520_0145.pcap" appears to be damaged or corrupt.
+(pcap: File has 2097484816-byte packet, bigger than maximum of 262144)
+0145
+tshark: The file "/home/octeam/Logs/CWAG1/20200520_0200.pcap" appears to be damaged or corrupt.
+(pcap: File has 84937985-byte packet, bigger than maximum of 262144)
+tshark: The file "/home/octeam/Logs/FeG1/20200520_0200.pcap" appears to have been cut short in the middle of a packet.
+0200
+tshark: The file "/home/octeam/Logs/CWAG1/20200520_0215.pcap" appears to be damaged or corrupt.
+(pcap: File has 1124483072-byte packet, bigger than maximum of 262144)
+0215
+tshark: The file "/home/octeam/Logs/CWAG1/20200520_0230.pcap" appears to be damaged or corrupt.
+(pcap: File has 3304632425-byte packet, bigger than maximum of 262144)
+0230
+tshark: The file "/home/octeam/Logs/CWAG1/20200520_0245.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885958153-byte packet, bigger than maximum of 262144)
+0245
+tshark: The file "/home/octeam/Logs/CWAG1/20200520_0300.pcap" appears to be damaged or corrupt.
+(pcap: File has 1600415084-byte packet, bigger than maximum of 262144)
+0300
+tshark: The file "/home/octeam/Logs/CWAG1/20200520_0315.pcap" appears to be damaged or corrupt.
+(pcap: File has 524288-byte packet, bigger than maximum of 262144)
+0315
+tshark: The file "/home/octeam/Logs/CWAG1/20200520_0330.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885431144-byte packet, bigger than maximum of 262144)
+0330
+tshark: The file "/home/octeam/Logs/CWAG1/20200520_0345.pcap" appears to be damaged or corrupt.
+(pcap: File has 18383092-byte packet, bigger than maximum of 262144)
+0345
+0400
+0415
+0430
+0445
+0500
+0515
+0530
+0545
+0600
+0615
+0630
+0645
+0700
+0715
+0730
+0745
+0800
+0815
+0830
+0845
+0900
+tshark: The file "/home/octeam/Logs/FeG1/20200520_0915.pcap" appears to be damaged or corrupt.
+(pcap: File has 369754112-byte packet, bigger than maximum of 262144)
+0915
+0930
+0945
+1000
+1015
+1030
+1045
+1100
+1115
+1130
+1145
+1200
+1215
+tshark: The file "/home/octeam/Logs/FeG1/20200520_1230.pcap" appears to be damaged or corrupt.
+(pcap: File has 151059778-byte packet, bigger than maximum of 262144)
+1230
+tshark: The file "/home/octeam/Logs/FeG1/20200520_1245.pcap" appears to be damaged or corrupt.
+(pcap: File has 811822701-byte packet, bigger than maximum of 262144)
+1245
+tshark: The file "/home/octeam/Logs/FeG1/20200520_1300.pcap" appears to be damaged or corrupt.
+(pcap: File has 1634559841-byte packet, bigger than maximum of 262144)
+1300
+1315
+1330
+1345
+1400
+1415
+1430
+1445
+1500
+1515
+1530
+1545
+1600
+1615
+1630
+1645
+1700
+1715
+1730
+1745
+1800
+1815
+1830
+1845
+1900
+1915
+1930
+1945
+2000
+2015
+2030
+2045
+2100
+2115
+2130
+2145
+2200
+2215
+2230
+2245
+2300
+2315
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200521_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200521_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200521_0-55.pcap" doesn't exist.
+0-55
+0000
+0015
+0030
+0045
+0100
+0115
+0130
+0145
+0200
+0215
+0230
+0245
+0300
+0315
+0330
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0345.pcap" appears to be damaged or corrupt.
+(pcap: File has 2010765366-byte packet, bigger than maximum of 262144)
+0345
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0400.pcap" appears to be damaged or corrupt.
+(pcap: File has 1814983269-byte packet, bigger than maximum of 262144)
+0400
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0415.pcap" appears to be damaged or corrupt.
+(pcap: File has 654311488-byte packet, bigger than maximum of 262144)
+0415
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0430.pcap" appears to be damaged or corrupt.
+(pcap: File has 320125383-byte packet, bigger than maximum of 262144)
+0430
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0445.pcap" appears to be damaged or corrupt.
+(pcap: File has 778793583-byte packet, bigger than maximum of 262144)
+0445
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0500.pcap" appears to be damaged or corrupt.
+(pcap: File has 811822701-byte packet, bigger than maximum of 262144)
+0500
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0515.pcap" appears to be damaged or corrupt.
+(pcap: File has 547930347-byte packet, bigger than maximum of 262144)
+0515
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0530.pcap" appears to be damaged or corrupt.
+(pcap: File has 1081358356-byte packet, bigger than maximum of 262144)
+0530
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0545.pcap" appears to be damaged or corrupt.
+(pcap: File has 3920012202-byte packet, bigger than maximum of 262144)
+0545
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0600.pcap" appears to be damaged or corrupt.
+(pcap: File has 10485760-byte packet, bigger than maximum of 262144)
+0600
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0615.pcap" appears to be damaged or corrupt.
+(pcap: File has 825241699-byte packet, bigger than maximum of 262144)
+0615
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0630.pcap" appears to be damaged or corrupt.
+(pcap: File has 1735552814-byte packet, bigger than maximum of 262144)
+0630
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0645.pcap" appears to be damaged or corrupt.
+(pcap: File has 2147876865-byte packet, bigger than maximum of 262144)
+0645
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0700.pcap" appears to be damaged or corrupt.
+(pcap: File has 402718720-byte packet, bigger than maximum of 262144)
+0700
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0715.pcap" appears to be damaged or corrupt.
+(pcap: File has 926429749-byte packet, bigger than maximum of 262144)
+0715
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0730.pcap" appears to be damaged or corrupt.
+(pcap: File has 1101464330-byte packet, bigger than maximum of 262144)
+0730
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0745.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885811502-byte packet, bigger than maximum of 262144)
+0745
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0800.pcap" appears to be damaged or corrupt.
+(pcap: File has 805306949-byte packet, bigger than maximum of 262144)
+0800
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0815.pcap" appears to be damaged or corrupt.
+(pcap: File has 2027332608-byte packet, bigger than maximum of 262144)
+0815
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0830.pcap" appears to be damaged or corrupt.
+(pcap: File has 3628129639-byte packet, bigger than maximum of 262144)
+0830
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0845.pcap" appears to be damaged or corrupt.
+(pcap: File has 2469957695-byte packet, bigger than maximum of 262144)
+0845
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0900.pcap" appears to be damaged or corrupt.
+(pcap: File has 648331156-byte packet, bigger than maximum of 262144)
+0900
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0915.pcap" appears to be damaged or corrupt.
+(pcap: File has 825241699-byte packet, bigger than maximum of 262144)
+0915
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0930.pcap" appears to be damaged or corrupt.
+(pcap: File has 104792064-byte packet, bigger than maximum of 262144)
+0930
+tshark: The file "/home/octeam/Logs/FeG1/20200521_0945.pcap" appears to be damaged or corrupt.
+(pcap: File has 487529487-byte packet, bigger than maximum of 262144)
+0945
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1000.pcap" appears to be damaged or corrupt.
+(pcap: File has 67108864-byte packet, bigger than maximum of 262144)
+1000
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1015.pcap" appears to be damaged or corrupt.
+(pcap: File has 11010048-byte packet, bigger than maximum of 262144)
+1015
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1030.pcap" appears to be damaged or corrupt.
+(pcap: File has 1835491693-byte packet, bigger than maximum of 262144)
+1030
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1045.pcap" appears to be damaged or corrupt.
+(pcap: File has 16810096-byte packet, bigger than maximum of 262144)
+1045
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1100.pcap" appears to be damaged or corrupt.
+(pcap: File has 470752271-byte packet, bigger than maximum of 262144)
+1100
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1115.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668707118-byte packet, bigger than maximum of 262144)
+1115
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1130.pcap" appears to be damaged or corrupt.
+(pcap: File has 1074266368-byte packet, bigger than maximum of 262144)
+1130
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1145.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777293-byte packet, bigger than maximum of 262144)
+1145
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1200.pcap" appears to be damaged or corrupt.
+(pcap: File has 907321072-byte packet, bigger than maximum of 262144)
+1200
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1215.pcap" appears to be damaged or corrupt.
+(pcap: File has 774975536-byte packet, bigger than maximum of 262144)
+1215
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1230.pcap" appears to be damaged or corrupt.
+(pcap: File has 3290857648-byte packet, bigger than maximum of 262144)
+1230
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1245.pcap" appears to be damaged or corrupt.
+(pcap: File has 1048576-byte packet, bigger than maximum of 262144)
+1245
+1300
+1315
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1330.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777728-byte packet, bigger than maximum of 262144)
+1330
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1345.pcap" appears to be damaged or corrupt.
+(pcap: File has 2818965504-byte packet, bigger than maximum of 262144)
+1345
+1400
+1415
+1430
+1445
+1500
+1515
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1530.pcap" appears to be damaged or corrupt.
+(pcap: File has 5373952-byte packet, bigger than maximum of 262144)
+1530
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1545.pcap" appears to be damaged or corrupt.
+(pcap: File has 3145730-byte packet, bigger than maximum of 262144)
+1545
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1600.pcap" appears to be damaged or corrupt.
+(pcap: File has 25579659-byte packet, bigger than maximum of 262144)
+1600
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1615.pcap" appears to be damaged or corrupt.
+(pcap: File has 1919907700-byte packet, bigger than maximum of 262144)
+1615
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1630.pcap" appears to be damaged or corrupt.
+(pcap: File has 67108864-byte packet, bigger than maximum of 262144)
+1630
+1645
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1700.pcap" appears to be damaged or corrupt.
+(pcap: File has 3766486528-byte packet, bigger than maximum of 262144)
+1700
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1715.pcap" appears to be damaged or corrupt.
+(pcap: File has 1835491693-byte packet, bigger than maximum of 262144)
+1715
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1730.pcap" appears to be damaged or corrupt.
+(pcap: File has 8415232-byte packet, bigger than maximum of 262144)
+1730
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1745.pcap" appears to be damaged or corrupt.
+(pcap: File has 655755781-byte packet, bigger than maximum of 262144)
+1745
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1800.pcap" appears to be damaged or corrupt.
+(pcap: File has 549742-byte packet, bigger than maximum of 262144)
+1800
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1815.pcap" appears to be damaged or corrupt.
+(pcap: File has 1444473-byte packet, bigger than maximum of 262144)
+1815
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1830.pcap" appears to be damaged or corrupt.
+(pcap: File has 2717982883-byte packet, bigger than maximum of 262144)
+1830
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1845.pcap" appears to be damaged or corrupt.
+(pcap: File has 1349354018-byte packet, bigger than maximum of 262144)
+1845
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1900.pcap" appears to be damaged or corrupt.
+(pcap: File has 1734698535-byte packet, bigger than maximum of 262144)
+1900
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1915.pcap" appears to be damaged or corrupt.
+(pcap: File has 1701736560-byte packet, bigger than maximum of 262144)
+1915
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1930.pcap" appears to be damaged or corrupt.
+(pcap: File has 2109494321-byte packet, bigger than maximum of 262144)
+1930
+tshark: The file "/home/octeam/Logs/FeG1/20200521_1945.pcap" appears to be damaged or corrupt.
+(pcap: File has 1157629952-byte packet, bigger than maximum of 262144)
+1945
+tshark: The file "/home/octeam/Logs/FeG1/20200521_2000.pcap" appears to be damaged or corrupt.
+(pcap: File has 1734438175-byte packet, bigger than maximum of 262144)
+2000
+tshark: The file "/home/octeam/Logs/FeG1/20200521_2015.pcap" appears to be damaged or corrupt.
+(pcap: File has 4230788-byte packet, bigger than maximum of 262144)
+2015
+tshark: The file "/home/octeam/Logs/FeG1/20200521_2030.pcap" appears to be damaged or corrupt.
+(pcap: File has 1577844736-byte packet, bigger than maximum of 262144)
+2030
+tshark: The file "/home/octeam/Logs/FeG1/20200521_2045.pcap" appears to be damaged or corrupt.
+(pcap: File has 778270323-byte packet, bigger than maximum of 262144)
+2045
+tshark: The file "/home/octeam/Logs/FeG1/20200521_2100.pcap" appears to be damaged or corrupt.
+(pcap: File has 811819885-byte packet, bigger than maximum of 262144)
+2100
+tshark: The file "/home/octeam/Logs/FeG1/20200521_2115.pcap" appears to be damaged or corrupt.
+(pcap: File has 264634390-byte packet, bigger than maximum of 262144)
+2115
+tshark: The file "/home/octeam/Logs/FeG1/20200521_2130.pcap" appears to be damaged or corrupt.
+(pcap: File has 4176741674-byte packet, bigger than maximum of 262144)
+2130
+tshark: The file "/home/octeam/Logs/FeG1/20200521_2145.pcap" appears to be damaged or corrupt.
+(pcap: File has 811822701-byte packet, bigger than maximum of 262144)
+2145
+tshark: The file "/home/octeam/Logs/FeG1/20200521_2200.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885679206-byte packet, bigger than maximum of 262144)
+2200
+tshark: The file "/home/octeam/Logs/FeG1/20200521_2215.pcap" appears to have been cut short in the middle of a packet.
+2215
+tshark: The file "/home/octeam/Logs/FeG1/20200521_2230.pcap" appears to be damaged or corrupt.
+(pcap: File has 1748744-byte packet, bigger than maximum of 262144)
+2230
+tshark: The file "/home/octeam/Logs/FeG1/20200521_2245.pcap" appears to be damaged or corrupt.
+(pcap: File has 662569494-byte packet, bigger than maximum of 262144)
+2245
+2300
+2315
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200522_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200522_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200522_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200522_0-55.pcap" doesn't exist.
+0-55
+0000
+0015
+0030
+0045
+0100
+0115
+0130
+0145
+0200
+0215
+0230
+0245
+0300
+0315
+0330
+0345
+0400
+0415
+0430
+0445
+0500
+0515
+0530
+0545
+0600
+0615
+0630
+0645
+0700
+0715
+0730
+0745
+0800
+0815
+0830
+0845
+0900
+0915
+0930
+0945
+1000
+1015
+1030
+1045
+1100
+1115
+1130
+1145
+1200
+1215
+1230
+1245
+1300
+1315
+1330
+1345
+1400
+1415
+1430
+1445
+1500
+1515
+1530
+1545
+1600
+1615
+1630
+1645
+1700
+1715
+1730
+1745
+1800
+1815
+1830
+1845
+1900
+1915
+1930
+1945
+tshark: The file "/home/octeam/Logs/FeG1/20200522_2000.pcap" appears to be damaged or corrupt.
+(pcap: File has 655579-byte packet, bigger than maximum of 262144)
+2000
+tshark: The file "/home/octeam/Logs/FeG1/20200522_2015.pcap" appears to be damaged or corrupt.
+(pcap: File has 762800176-byte packet, bigger than maximum of 262144)
+2015
+tshark: The file "/home/octeam/Logs/FeG1/20200522_2030.pcap" appears to be damaged or corrupt.
+(pcap: File has 1814983269-byte packet, bigger than maximum of 262144)
+2030
+tshark: The file "/home/octeam/Logs/FeG1/20200522_2045.pcap" appears to be damaged or corrupt.
+(pcap: File has 687865920-byte packet, bigger than maximum of 262144)
+2045
+tshark: The file "/home/octeam/Logs/FeG1/20200522_2100.pcap" appears to be damaged or corrupt.
+(pcap: File has 1952804464-byte packet, bigger than maximum of 262144)
+2100
+tshark: The file "/home/octeam/Logs/FeG1/20200522_2115.pcap" appears to be damaged or corrupt.
+(pcap: File has 345960470-byte packet, bigger than maximum of 262144)
+2115
+tshark: The file "/home/octeam/Logs/FeG1/20200522_2130.pcap" appears to be damaged or corrupt.
+(pcap: File has 746864640-byte packet, bigger than maximum of 262144)
+2130
+tshark: The file "/home/octeam/Logs/FeG1/20200522_2145.pcap" appears to be damaged or corrupt.
+(pcap: File has 1157629952-byte packet, bigger than maximum of 262144)
+2145
+tshark: The file "/home/octeam/Logs/FeG1/20200522_2200.pcap" appears to be damaged or corrupt.
+(pcap: File has 12572367-byte packet, bigger than maximum of 262144)
+2200
+tshark: The file "/home/octeam/Logs/FeG1/20200522_2215.pcap" appears to be damaged or corrupt.
+(pcap: File has 808464433-byte packet, bigger than maximum of 262144)
+2215
+2230
+2245
+2300
+tshark: The file "/home/octeam/Logs/FeG1/20200522_2315.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885679219-byte packet, bigger than maximum of 262144)
+2315
+tshark: The file "/home/octeam/Logs/FeG1/20200522_2330.pcap" appears to be damaged or corrupt.
+(pcap: File has 1937075299-byte packet, bigger than maximum of 262144)
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200523_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200523_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200523_0-55.pcap" doesn't exist.
+0-55
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0000.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668707118-byte packet, bigger than maximum of 262144)
+0000
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0015.pcap" appears to be damaged or corrupt.
+(pcap: File has 858665264-byte packet, bigger than maximum of 262144)
+0015
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0030.pcap" appears to be damaged or corrupt.
+(pcap: File has 1573120-byte packet, bigger than maximum of 262144)
+0030
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0045.pcap" appears to be damaged or corrupt.
+(pcap: File has 1970037550-byte packet, bigger than maximum of 262144)
+0045
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0100.pcap" appears to be damaged or corrupt.
+(pcap: File has 547930340-byte packet, bigger than maximum of 262144)
+0100
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0115.pcap" appears to be damaged or corrupt.
+(pcap: File has 671088656-byte packet, bigger than maximum of 262144)
+0115
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0130.pcap" appears to be damaged or corrupt.
+(pcap: File has 811822701-byte packet, bigger than maximum of 262144)
+0130
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0145.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668296192-byte packet, bigger than maximum of 262144)
+0145
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0200.pcap" appears to be damaged or corrupt.
+(pcap: File has 369491969-byte packet, bigger than maximum of 262144)
+0200
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0215.pcap" appears to be damaged or corrupt.
+(pcap: File has 1080765992-byte packet, bigger than maximum of 262144)
+0215
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0230.pcap" appears to be damaged or corrupt.
+(pcap: File has 858665264-byte packet, bigger than maximum of 262144)
+0230
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0245.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777216-byte packet, bigger than maximum of 262144)
+0245
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0300.pcap" appears to be damaged or corrupt.
+(pcap: File has 67108864-byte packet, bigger than maximum of 262144)
+0300
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0315.pcap" appears to be damaged or corrupt.
+(pcap: File has 1937075299-byte packet, bigger than maximum of 262144)
+0315
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0330.pcap" appears to be damaged or corrupt.
+(pcap: File has 10485771-byte packet, bigger than maximum of 262144)
+0330
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0345.pcap" appears to be damaged or corrupt.
+(pcap: File has 808477539-byte packet, bigger than maximum of 262144)
+0345
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0400.pcap" appears to be damaged or corrupt.
+(pcap: File has 177196894-byte packet, bigger than maximum of 262144)
+0400
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0415.pcap" appears to be damaged or corrupt.
+(pcap: File has 639674560-byte packet, bigger than maximum of 262144)
+0415
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0430.pcap" appears to be damaged or corrupt.
+(pcap: File has 2666553033-byte packet, bigger than maximum of 262144)
+0430
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0445.pcap" appears to be damaged or corrupt.
+(pcap: File has 33554688-byte packet, bigger than maximum of 262144)
+0445
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0500.pcap" appears to be damaged or corrupt.
+(pcap: File has 369810797-byte packet, bigger than maximum of 262144)
+0500
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0515.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885679206-byte packet, bigger than maximum of 262144)
+0515
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0530.pcap" appears to be damaged or corrupt.
+(pcap: File has 53980053-byte packet, bigger than maximum of 262144)
+0530
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0545.pcap" appears to be damaged or corrupt.
+(pcap: File has 67108864-byte packet, bigger than maximum of 262144)
+0545
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0600.pcap" appears to be damaged or corrupt.
+(pcap: File has 645968078-byte packet, bigger than maximum of 262144)
+0600
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0615.pcap" appears to be damaged or corrupt.
+(pcap: File has 1590239716-byte packet, bigger than maximum of 262144)
+0615
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0630.pcap" appears to be damaged or corrupt.
+(pcap: File has 345960470-byte packet, bigger than maximum of 262144)
+0630
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0645.pcap" appears to be damaged or corrupt.
+(pcap: File has 1932419437-byte packet, bigger than maximum of 262144)
+0645
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0700.pcap" appears to be damaged or corrupt.
+(pcap: File has 1281280300-byte packet, bigger than maximum of 262144)
+0700
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0715.pcap" appears to be damaged or corrupt.
+(pcap: File has 234952832-byte packet, bigger than maximum of 262144)
+0715
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0730.pcap" appears to be damaged or corrupt.
+(pcap: File has 8415232-byte packet, bigger than maximum of 262144)
+0730
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0745.pcap" appears to be damaged or corrupt.
+(pcap: File has 1075183872-byte packet, bigger than maximum of 262144)
+0745
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0800.pcap" appears to be damaged or corrupt.
+(pcap: File has 100663552-byte packet, bigger than maximum of 262144)
+0800
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0815.pcap" appears to be damaged or corrupt.
+(pcap: File has 1902037309-byte packet, bigger than maximum of 262144)
+0815
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0830.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668707118-byte packet, bigger than maximum of 262144)
+0830
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0845.pcap" appears to be damaged or corrupt.
+(pcap: File has 1347652108-byte packet, bigger than maximum of 262144)
+0845
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0900.pcap" appears to be damaged or corrupt.
+(pcap: File has 1849037982-byte packet, bigger than maximum of 262144)
+0900
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0915.pcap" appears to be damaged or corrupt.
+(pcap: File has 1633906540-byte packet, bigger than maximum of 262144)
+0915
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0930.pcap" appears to be damaged or corrupt.
+(pcap: File has 3850941126-byte packet, bigger than maximum of 262144)
+0930
+tshark: The file "/home/octeam/Logs/FeG1/20200523_0945.pcap" appears to be damaged or corrupt.
+(pcap: File has 842019120-byte packet, bigger than maximum of 262144)
+0945
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1000.pcap" appears to be damaged or corrupt.
+(pcap: File has 2143282982-byte packet, bigger than maximum of 262144)
+1000
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1015.pcap" appears to be damaged or corrupt.
+(pcap: File has 1852649059-byte packet, bigger than maximum of 262144)
+1015
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1030.pcap" appears to be damaged or corrupt.
+(pcap: File has 153818462-byte packet, bigger than maximum of 262144)
+1030
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1045.pcap" appears to be damaged or corrupt.
+(pcap: File has 1970037550-byte packet, bigger than maximum of 262144)
+1045
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1100.pcap" appears to be damaged or corrupt.
+(pcap: File has 1754845827-byte packet, bigger than maximum of 262144)
+1100
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1115.pcap" appears to be damaged or corrupt.
+(pcap: File has 3311275008-byte packet, bigger than maximum of 262144)
+1115
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1130.pcap" appears to be damaged or corrupt.
+(pcap: File has 825241699-byte packet, bigger than maximum of 262144)
+1130
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1145.pcap" appears to be damaged or corrupt.
+(pcap: File has 1074266368-byte packet, bigger than maximum of 262144)
+1145
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1200.pcap" appears to be damaged or corrupt.
+(pcap: File has 1802661751-byte packet, bigger than maximum of 262144)
+1200
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1215.pcap" appears to be damaged or corrupt.
+(pcap: File has 3340504862-byte packet, bigger than maximum of 262144)
+1215
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1230.pcap" appears to be damaged or corrupt.
+(pcap: File has 654311488-byte packet, bigger than maximum of 262144)
+1230
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1245.pcap" appears to be damaged or corrupt.
+(pcap: File has 858665264-byte packet, bigger than maximum of 262144)
+1245
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1300.pcap" appears to be damaged or corrupt.
+(pcap: File has 359199-byte packet, bigger than maximum of 262144)
+1300
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1315.pcap" appears to be damaged or corrupt.
+(pcap: File has 825241699-byte packet, bigger than maximum of 262144)
+1315
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1330.pcap" appears to be damaged or corrupt.
+(pcap: File has 2230804248-byte packet, bigger than maximum of 262144)
+1330
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1345.pcap" appears to be damaged or corrupt.
+(pcap: File has 1952804464-byte packet, bigger than maximum of 262144)
+1345
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1400.pcap" appears to be damaged or corrupt.
+(pcap: File has 1973945920-byte packet, bigger than maximum of 262144)
+1400
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1415.pcap" appears to be damaged or corrupt.
+(pcap: File has 716018610-byte packet, bigger than maximum of 262144)
+1415
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1430.pcap" appears to be damaged or corrupt.
+(pcap: File has 811822701-byte packet, bigger than maximum of 262144)
+1430
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1445.pcap" appears to be damaged or corrupt.
+(pcap: File has 2452619266-byte packet, bigger than maximum of 262144)
+1445
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1500.pcap" appears to be damaged or corrupt.
+(pcap: File has 1365166492-byte packet, bigger than maximum of 262144)
+1500
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1515.pcap" appears to be damaged or corrupt.
+(pcap: File has 106875296-byte packet, bigger than maximum of 262144)
+1515
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1530.pcap" appears to be damaged or corrupt.
+(pcap: File has 811822701-byte packet, bigger than maximum of 262144)
+1530
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1545.pcap" appears to be damaged or corrupt.
+(pcap: File has 369804800-byte packet, bigger than maximum of 262144)
+1545
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1600.pcap" appears to be damaged or corrupt.
+(pcap: File has 4235009-byte packet, bigger than maximum of 262144)
+1600
+1615
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1630.pcap" appears to be damaged or corrupt.
+(pcap: File has 467354469-byte packet, bigger than maximum of 262144)
+1630
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1645.pcap" appears to be damaged or corrupt.
+(pcap: File has 1701736560-byte packet, bigger than maximum of 262144)
+1645
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1700.pcap" appears to be damaged or corrupt.
+(pcap: File has 12110292-byte packet, bigger than maximum of 262144)
+1700
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1715.pcap" appears to be damaged or corrupt.
+(pcap: File has 1076315804-byte packet, bigger than maximum of 262144)
+1715
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1730.pcap" appears to be damaged or corrupt.
+(pcap: File has 1831756656-byte packet, bigger than maximum of 262144)
+1730
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1745.pcap" appears to be damaged or corrupt.
+(pcap: File has 1074266368-byte packet, bigger than maximum of 262144)
+1745
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1800.pcap" appears to be damaged or corrupt.
+(pcap: File has 2684354560-byte packet, bigger than maximum of 262144)
+1800
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1815.pcap" appears to be damaged or corrupt.
+(pcap: File has 117440524-byte packet, bigger than maximum of 262144)
+1815
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1830.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668246574-byte packet, bigger than maximum of 262144)
+1830
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1845.pcap" appears to be damaged or corrupt.
+(pcap: File has 3557165576-byte packet, bigger than maximum of 262144)
+1845
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1900.pcap" appears to be damaged or corrupt.
+(pcap: File has 1605782-byte packet, bigger than maximum of 262144)
+1900
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1915.pcap" appears to be damaged or corrupt.
+(pcap: File has 1849037982-byte packet, bigger than maximum of 262144)
+1915
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1930.pcap" appears to be damaged or corrupt.
+(pcap: File has 1852862567-byte packet, bigger than maximum of 262144)
+1930
+tshark: The file "/home/octeam/Logs/FeG1/20200523_1945.pcap" appears to be damaged or corrupt.
+(pcap: File has 13698816-byte packet, bigger than maximum of 262144)
+1945
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2000.pcap" appears to be damaged or corrupt.
+(pcap: File has 778270323-byte packet, bigger than maximum of 262144)
+2000
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2015.pcap" appears to be damaged or corrupt.
+(pcap: File has 1831756656-byte packet, bigger than maximum of 262144)
+2015
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2030.pcap" appears to be damaged or corrupt.
+(pcap: File has 1735552814-byte packet, bigger than maximum of 262144)
+2030
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2045.pcap" appears to be damaged or corrupt.
+(pcap: File has 825241699-byte packet, bigger than maximum of 262144)
+2045
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2100.pcap" appears to be damaged or corrupt.
+(pcap: File has 1919907700-byte packet, bigger than maximum of 262144)
+2100
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2115.pcap" appears to be damaged or corrupt.
+(pcap: File has 1157629952-byte packet, bigger than maximum of 262144)
+2115
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2130.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777340-byte packet, bigger than maximum of 262144)
+2130
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2145.pcap" appears to be damaged or corrupt.
+(pcap: File has 2003316736-byte packet, bigger than maximum of 262144)
+2145
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2200.pcap" appears to be damaged or corrupt.
+(pcap: File has 100663552-byte packet, bigger than maximum of 262144)
+2200
+2215
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2230.pcap" appears to be damaged or corrupt.
+(pcap: File has 1818439267-byte packet, bigger than maximum of 262144)
+2230
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2245.pcap" appears to be damaged or corrupt.
+(pcap: File has 170270888-byte packet, bigger than maximum of 262144)
+2245
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2300.pcap" appears to be damaged or corrupt.
+(pcap: File has 662569494-byte packet, bigger than maximum of 262144)
+2300
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2315.pcap" appears to be damaged or corrupt.
+(pcap: File has 1132090306-byte packet, bigger than maximum of 262144)
+2315
+tshark: The file "/home/octeam/Logs/FeG1/20200523_2330.pcap" appears to be damaged or corrupt.
+(pcap: File has 1814983269-byte packet, bigger than maximum of 262144)
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200524_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200524_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200524_0-55.pcap" doesn't exist.
+0-55
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0000.pcap" appears to be damaged or corrupt.
+(pcap: File has 134217919-byte packet, bigger than maximum of 262144)
+0000
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0015.pcap" appears to be damaged or corrupt.
+(pcap: File has 771752000-byte packet, bigger than maximum of 262144)
+0015
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0030.pcap" appears to be damaged or corrupt.
+(pcap: File has 411076164-byte packet, bigger than maximum of 262144)
+0030
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0045.pcap" appears to be damaged or corrupt.
+(pcap: File has 1735552814-byte packet, bigger than maximum of 262144)
+0045
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0100.pcap" appears to be damaged or corrupt.
+(pcap: File has 547930233-byte packet, bigger than maximum of 262144)
+0100
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0115.pcap" appears to be damaged or corrupt.
+(pcap: File has 4150204496-byte packet, bigger than maximum of 262144)
+0115
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0130.pcap" appears to be damaged or corrupt.
+(pcap: File has 1688598808-byte packet, bigger than maximum of 262144)
+0130
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0145.pcap" appears to be damaged or corrupt.
+(pcap: File has 38076424-byte packet, bigger than maximum of 262144)
+0145
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0200.pcap" appears to be damaged or corrupt.
+(pcap: File has 402718720-byte packet, bigger than maximum of 262144)
+0200
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0215.pcap" appears to be damaged or corrupt.
+(pcap: File has 504306703-byte packet, bigger than maximum of 262144)
+0215
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0230.pcap" appears to be damaged or corrupt.
+(pcap: File has 778136935-byte packet, bigger than maximum of 262144)
+0230
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0245.pcap" appears to be damaged or corrupt.
+(pcap: File has 1818321775-byte packet, bigger than maximum of 262144)
+0245
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0300.pcap" appears to have been cut short in the middle of a packet.
+0300
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0315.pcap" appears to be damaged or corrupt.
+(pcap: File has 4211490816-byte packet, bigger than maximum of 262144)
+0315
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0330.pcap" appears to be damaged or corrupt.
+(pcap: File has 4201710-byte packet, bigger than maximum of 262144)
+0330
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0345.pcap" appears to be damaged or corrupt.
+(pcap: File has 2422131280-byte packet, bigger than maximum of 262144)
+0345
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0400.pcap" appears to be damaged or corrupt.
+(pcap: File has 1861276069-byte packet, bigger than maximum of 262144)
+0400
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0415.pcap" appears to be damaged or corrupt.
+(pcap: File has 4179120311-byte packet, bigger than maximum of 262144)
+0415
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0430.pcap" appears to be damaged or corrupt.
+(pcap: File has 100663552-byte packet, bigger than maximum of 262144)
+0430
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0445.pcap" appears to be damaged or corrupt.
+(pcap: File has 11479040-byte packet, bigger than maximum of 262144)
+0445
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0500.pcap" appears to be damaged or corrupt.
+(pcap: File has 808530023-byte packet, bigger than maximum of 262144)
+0500
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0515.pcap" appears to be damaged or corrupt.
+(pcap: File has 10485760-byte packet, bigger than maximum of 262144)
+0515
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0530.pcap" appears to be damaged or corrupt.
+(pcap: File has 2553876480-byte packet, bigger than maximum of 262144)
+0530
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0545.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668707118-byte packet, bigger than maximum of 262144)
+0545
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0600.pcap" appears to be damaged or corrupt.
+(pcap: File has 2667986688-byte packet, bigger than maximum of 262144)
+0600
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0615.pcap" appears to be damaged or corrupt.
+(pcap: File has 1831756656-byte packet, bigger than maximum of 262144)
+0615
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0630.pcap" appears to be damaged or corrupt.
+(pcap: File has 1073758266-byte packet, bigger than maximum of 262144)
+0630
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0645.pcap" appears to be damaged or corrupt.
+(pcap: File has 1713831936-byte packet, bigger than maximum of 262144)
+0645
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0700.pcap" appears to be damaged or corrupt.
+(pcap: File has 1882062848-byte packet, bigger than maximum of 262144)
+0700
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0715.pcap" appears to be damaged or corrupt.
+(pcap: File has 369763872-byte packet, bigger than maximum of 262144)
+0715
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0730.pcap" appears to be damaged or corrupt.
+(pcap: File has 1701736560-byte packet, bigger than maximum of 262144)
+0730
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0745.pcap" appears to be damaged or corrupt.
+(pcap: File has 1865313138-byte packet, bigger than maximum of 262144)
+0745
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0800.pcap" appears to be damaged or corrupt.
+(pcap: File has 1882062848-byte packet, bigger than maximum of 262144)
+0800
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0815.pcap" appears to be damaged or corrupt.
+(pcap: File has 6779503-byte packet, bigger than maximum of 262144)
+0815
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0830.pcap" appears to be damaged or corrupt.
+(pcap: File has 2563932961-byte packet, bigger than maximum of 262144)
+0830
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0845.pcap" appears to be damaged or corrupt.
+(pcap: File has 808477550-byte packet, bigger than maximum of 262144)
+0845
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0900.pcap" appears to be damaged or corrupt.
+(pcap: File has 4521992-byte packet, bigger than maximum of 262144)
+0900
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0915.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885811502-byte packet, bigger than maximum of 262144)
+0915
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0930.pcap" appears to be damaged or corrupt.
+(pcap: File has 774975536-byte packet, bigger than maximum of 262144)
+0930
+tshark: The file "/home/octeam/Logs/FeG1/20200524_0945.pcap" appears to be damaged or corrupt.
+(pcap: File has 1818321775-byte packet, bigger than maximum of 262144)
+0945
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1000.pcap" appears to be damaged or corrupt.
+(pcap: File has 3718639225-byte packet, bigger than maximum of 262144)
+1000
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1015.pcap" appears to be damaged or corrupt.
+(pcap: File has 23251881-byte packet, bigger than maximum of 262144)
+1015
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1030.pcap" appears to be damaged or corrupt.
+(pcap: File has 257237160-byte packet, bigger than maximum of 262144)
+1030
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1045.pcap" appears to be damaged or corrupt.
+(pcap: File has 4204364-byte packet, bigger than maximum of 262144)
+1045
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1100.pcap" appears to be damaged or corrupt.
+(pcap: File has 1882062848-byte packet, bigger than maximum of 262144)
+1100
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1115.pcap" appears to be damaged or corrupt.
+(pcap: File has 268435459-byte packet, bigger than maximum of 262144)
+1115
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1130.pcap" appears to be damaged or corrupt.
+(pcap: File has 3911478272-byte packet, bigger than maximum of 262144)
+1130
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1145.pcap" appears to be damaged or corrupt.
+(pcap: File has 1697185792-byte packet, bigger than maximum of 262144)
+1145
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1200.pcap" appears to be damaged or corrupt.
+(pcap: File has 172455942-byte packet, bigger than maximum of 262144)
+1200
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1215.pcap" appears to be damaged or corrupt.
+(pcap: File has 2666534406-byte packet, bigger than maximum of 262144)
+1215
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1230.pcap" appears to be damaged or corrupt.
+(pcap: File has 1702130549-byte packet, bigger than maximum of 262144)
+1230
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1245.pcap" appears to be damaged or corrupt.
+(pcap: File has 671154176-byte packet, bigger than maximum of 262144)
+1245
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1300.pcap" appears to be damaged or corrupt.
+(pcap: File has 2831186198-byte packet, bigger than maximum of 262144)
+1300
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1315.pcap" appears to be damaged or corrupt.
+(pcap: File has 1573120-byte packet, bigger than maximum of 262144)
+1315
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1330.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668099633-byte packet, bigger than maximum of 262144)
+1330
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1345.pcap" appears to be damaged or corrupt.
+(pcap: File has 858665264-byte packet, bigger than maximum of 262144)
+1345
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1400.pcap" appears to be damaged or corrupt.
+(pcap: File has 3764256876-byte packet, bigger than maximum of 262144)
+1400
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1415.pcap" appears to be damaged or corrupt.
+(pcap: File has 7223848-byte packet, bigger than maximum of 262144)
+1415
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1430.pcap" appears to be damaged or corrupt.
+(pcap: File has 1056964626-byte packet, bigger than maximum of 262144)
+1430
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1445.pcap" appears to be damaged or corrupt.
+(pcap: File has 1573120-byte packet, bigger than maximum of 262144)
+1445
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1500.pcap" appears to be damaged or corrupt.
+(pcap: File has 1074266368-byte packet, bigger than maximum of 262144)
+1500
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1515.pcap" appears to be damaged or corrupt.
+(pcap: File has 3670023-byte packet, bigger than maximum of 262144)
+1515
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1530.pcap" appears to be damaged or corrupt.
+(pcap: File has 253628245-byte packet, bigger than maximum of 262144)
+1530
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1545.pcap" appears to be damaged or corrupt.
+(pcap: File has 26869086-byte packet, bigger than maximum of 262144)
+1545
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1600.pcap" appears to be damaged or corrupt.
+(pcap: File has 13698816-byte packet, bigger than maximum of 262144)
+1600
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1615.pcap" appears to be damaged or corrupt.
+(pcap: File has 201326656-byte packet, bigger than maximum of 262144)
+1615
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1630.pcap" appears to be damaged or corrupt.
+(pcap: File has 3474841728-byte packet, bigger than maximum of 262144)
+1630
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1645.pcap" appears to be damaged or corrupt.
+(pcap: File has 1919889003-byte packet, bigger than maximum of 262144)
+1645
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1700.pcap" appears to be damaged or corrupt.
+(pcap: File has 1701736560-byte packet, bigger than maximum of 262144)
+1700
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1715.pcap" appears to be damaged or corrupt.
+(pcap: File has 235798528-byte packet, bigger than maximum of 262144)
+1715
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1730.pcap" appears to be damaged or corrupt.
+(pcap: File has 1641545183-byte packet, bigger than maximum of 262144)
+1730
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1745.pcap" appears to be damaged or corrupt.
+(pcap: File has 2831186198-byte packet, bigger than maximum of 262144)
+1745
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1800.pcap" appears to be damaged or corrupt.
+(pcap: File has 2402287618-byte packet, bigger than maximum of 262144)
+1800
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1815.pcap" appears to be damaged or corrupt.
+(pcap: File has 1702130549-byte packet, bigger than maximum of 262144)
+1815
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1830.pcap" appears to be damaged or corrupt.
+(pcap: File has 1734438190-byte packet, bigger than maximum of 262144)
+1830
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1845.pcap" appears to be damaged or corrupt.
+(pcap: File has 654311488-byte packet, bigger than maximum of 262144)
+1845
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1900.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777260-byte packet, bigger than maximum of 262144)
+1900
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1915.pcap" appears to be damaged or corrupt.
+(pcap: File has 1970037550-byte packet, bigger than maximum of 262144)
+1915
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1930.pcap" appears to be damaged or corrupt.
+(pcap: File has 1818439267-byte packet, bigger than maximum of 262144)
+1930
+tshark: The file "/home/octeam/Logs/FeG1/20200524_1945.pcap" appears to be damaged or corrupt.
+(pcap: File has 16778240-byte packet, bigger than maximum of 262144)
+1945
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2000.pcap" appears to be damaged or corrupt.
+(pcap: File has 9982872-byte packet, bigger than maximum of 262144)
+2000
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2015.pcap" appears to be damaged or corrupt.
+(pcap: File has 12643843-byte packet, bigger than maximum of 262144)
+2015
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2030.pcap" appears to be damaged or corrupt.
+(pcap: File has 1869881170-byte packet, bigger than maximum of 262144)
+2030
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2045.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668310318-byte packet, bigger than maximum of 262144)
+2045
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2100.pcap" appears to be damaged or corrupt.
+(pcap: File has 4521992-byte packet, bigger than maximum of 262144)
+2100
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2115.pcap" appears to be damaged or corrupt.
+(pcap: File has 1275477760-byte packet, bigger than maximum of 262144)
+2115
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2130.pcap" appears to be damaged or corrupt.
+(pcap: File has 1718772592-byte packet, bigger than maximum of 262144)
+2130
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2145.pcap" appears to be damaged or corrupt.
+(pcap: File has 524288-byte packet, bigger than maximum of 262144)
+2145
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2200.pcap" appears to be damaged or corrupt.
+(pcap: File has 369775904-byte packet, bigger than maximum of 262144)
+2200
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2215.pcap" appears to be damaged or corrupt.
+(pcap: File has 253497209-byte packet, bigger than maximum of 262144)
+2215
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2230.pcap" appears to be damaged or corrupt.
+(pcap: File has 1428203712-byte packet, bigger than maximum of 262144)
+2230
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2245.pcap" appears to be damaged or corrupt.
+(pcap: File has 1953723756-byte packet, bigger than maximum of 262144)
+2245
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2300.pcap" appears to be damaged or corrupt.
+(pcap: File has 1835491693-byte packet, bigger than maximum of 262144)
+2300
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2315.pcap" appears to be damaged or corrupt.
+(pcap: File has 100663552-byte packet, bigger than maximum of 262144)
+2315
+tshark: The file "/home/octeam/Logs/FeG1/20200524_2330.pcap" appears to be damaged or corrupt.
+(pcap: File has 1074528512-byte packet, bigger than maximum of 262144)
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200525_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200525_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200525_0-55.pcap" doesn't exist.
+0-55
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0000.pcap" appears to be damaged or corrupt.
+(pcap: File has 2338245484-byte packet, bigger than maximum of 262144)
+0000
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0015.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777238-byte packet, bigger than maximum of 262144)
+0015
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0030.pcap" appears to be damaged or corrupt.
+(pcap: File has 671088656-byte packet, bigger than maximum of 262144)
+0030
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0045.pcap" appears to be damaged or corrupt.
+(pcap: File has 13698816-byte packet, bigger than maximum of 262144)
+0045
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0100.pcap" appears to be damaged or corrupt.
+(pcap: File has 873630283-byte packet, bigger than maximum of 262144)
+0100
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0115.pcap" appears to be damaged or corrupt.
+(pcap: File has 8415232-byte packet, bigger than maximum of 262144)
+0115
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0130.pcap" appears to be damaged or corrupt.
+(pcap: File has 1045242991-byte packet, bigger than maximum of 262144)
+0130
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0145.pcap" appears to be damaged or corrupt.
+(pcap: File has 6779503-byte packet, bigger than maximum of 262144)
+0145
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0200.pcap" appears to be damaged or corrupt.
+(pcap: File has 555487004-byte packet, bigger than maximum of 262144)
+0200
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0215.pcap" appears to be damaged or corrupt.
+(pcap: File has 1025679747-byte packet, bigger than maximum of 262144)
+0215
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0230.pcap" appears to be damaged or corrupt.
+(pcap: File has 474615888-byte packet, bigger than maximum of 262144)
+0230
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0245.pcap" appears to be damaged or corrupt.
+(pcap: File has 2154299392-byte packet, bigger than maximum of 262144)
+0245
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0300.pcap" appears to be damaged or corrupt.
+(pcap: File has 2684354560-byte packet, bigger than maximum of 262144)
+0300
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0315.pcap" appears to be damaged or corrupt.
+(pcap: File has 786432-byte packet, bigger than maximum of 262144)
+0315
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0330.pcap" appears to be damaged or corrupt.
+(pcap: File has 774975536-byte packet, bigger than maximum of 262144)
+0330
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0345.pcap" appears to be damaged or corrupt.
+(pcap: File has 907321072-byte packet, bigger than maximum of 262144)
+0345
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0400.pcap" appears to be damaged or corrupt.
+(pcap: File has 2550136901-byte packet, bigger than maximum of 262144)
+0400
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0415.pcap" appears to be damaged or corrupt.
+(pcap: File has 100663552-byte packet, bigger than maximum of 262144)
+0415
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0430.pcap" appears to be damaged or corrupt.
+(pcap: File has 1735552814-byte packet, bigger than maximum of 262144)
+0430
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0445.pcap" appears to be damaged or corrupt.
+(pcap: File has 3603897824-byte packet, bigger than maximum of 262144)
+0445
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0500.pcap" appears to be damaged or corrupt.
+(pcap: File has 662569494-byte packet, bigger than maximum of 262144)
+0500
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0515.pcap" appears to be damaged or corrupt.
+(pcap: File has 1919907700-byte packet, bigger than maximum of 262144)
+0515
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0530.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885811502-byte packet, bigger than maximum of 262144)
+0530
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0545.pcap" appears to be damaged or corrupt.
+(pcap: File has 778793583-byte packet, bigger than maximum of 262144)
+0545
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0600.pcap" appears to be damaged or corrupt.
+(pcap: File has 1831756656-byte packet, bigger than maximum of 262144)
+0600
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0615.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668296192-byte packet, bigger than maximum of 262144)
+0615
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0630.pcap" appears to be damaged or corrupt.
+(pcap: File has 3901064732-byte packet, bigger than maximum of 262144)
+0630
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0645.pcap" appears to be damaged or corrupt.
+(pcap: File has 7102819-byte packet, bigger than maximum of 262144)
+0645
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0700.pcap" appears to be damaged or corrupt.
+(pcap: File has 2218786880-byte packet, bigger than maximum of 262144)
+0700
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0715.pcap" appears to be damaged or corrupt.
+(pcap: File has 1831743792-byte packet, bigger than maximum of 262144)
+0715
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0730.pcap" appears to be damaged or corrupt.
+(pcap: File has 501252102-byte packet, bigger than maximum of 262144)
+0730
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0745.pcap" appears to be damaged or corrupt.
+(pcap: File has 914600981-byte packet, bigger than maximum of 262144)
+0745
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0800.pcap" appears to be damaged or corrupt.
+(pcap: File has 4521992-byte packet, bigger than maximum of 262144)
+0800
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0815.pcap" appears to be damaged or corrupt.
+(pcap: File has 487937-byte packet, bigger than maximum of 262144)
+0815
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0830.pcap" appears to be damaged or corrupt.
+(pcap: File has 105153886-byte packet, bigger than maximum of 262144)
+0830
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0845.pcap" appears to be damaged or corrupt.
+(pcap: File has 2169227280-byte packet, bigger than maximum of 262144)
+0845
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0900.pcap" appears to be damaged or corrupt.
+(pcap: File has 1987260001-byte packet, bigger than maximum of 262144)
+0900
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0915.pcap" appears to be damaged or corrupt.
+(pcap: File has 2306934336-byte packet, bigger than maximum of 262144)
+0915
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0930.pcap" appears to be damaged or corrupt.
+(pcap: File has 2374829985-byte packet, bigger than maximum of 262144)
+0930
+tshark: The file "/home/octeam/Logs/FeG1/20200525_0945.pcap" appears to be damaged or corrupt.
+(pcap: File has 253497209-byte packet, bigger than maximum of 262144)
+0945
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1000.pcap" appears to be damaged or corrupt.
+(pcap: File has 100663552-byte packet, bigger than maximum of 262144)
+1000
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1015.pcap" appears to be damaged or corrupt.
+(pcap: File has 808477550-byte packet, bigger than maximum of 262144)
+1015
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1030.pcap" appears to be damaged or corrupt.
+(pcap: File has 67108864-byte packet, bigger than maximum of 262144)
+1030
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1045.pcap" appears to be damaged or corrupt.
+(pcap: File has 965133662-byte packet, bigger than maximum of 262144)
+1045
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1100.pcap" appears to be damaged or corrupt.
+(pcap: File has 2261081612-byte packet, bigger than maximum of 262144)
+1100
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1115.pcap" appears to be damaged or corrupt.
+(pcap: File has 1087326608-byte packet, bigger than maximum of 262144)
+1115
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1130.pcap" appears to be damaged or corrupt.
+(pcap: File has 778252656-byte packet, bigger than maximum of 262144)
+1130
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1145.pcap" appears to be damaged or corrupt.
+(pcap: File has 10485760-byte packet, bigger than maximum of 262144)
+1145
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1200.pcap" appears to be damaged or corrupt.
+(pcap: File has 370543189-byte packet, bigger than maximum of 262144)
+1200
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1215.pcap" appears to be damaged or corrupt.
+(pcap: File has 1852862567-byte packet, bigger than maximum of 262144)
+1215
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1230.pcap" appears to be damaged or corrupt.
+(pcap: File has 4196353-byte packet, bigger than maximum of 262144)
+1230
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1245.pcap" appears to be damaged or corrupt.
+(pcap: File has 541473158-byte packet, bigger than maximum of 262144)
+1245
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1300.pcap" appears to be damaged or corrupt.
+(pcap: File has 1634541312-byte packet, bigger than maximum of 262144)
+1300
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1315.pcap" appears to be damaged or corrupt.
+(pcap: File has 1831743792-byte packet, bigger than maximum of 262144)
+1315
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1330.pcap" appears to be damaged or corrupt.
+(pcap: File has 808530023-byte packet, bigger than maximum of 262144)
+1330
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1345.pcap" appears to be damaged or corrupt.
+(pcap: File has 3221228213-byte packet, bigger than maximum of 262144)
+1345
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1400.pcap" appears to be damaged or corrupt.
+(pcap: File has 825241699-byte packet, bigger than maximum of 262144)
+1400
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1415.pcap" appears to be damaged or corrupt.
+(pcap: File has 38076424-byte packet, bigger than maximum of 262144)
+1415
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1430.pcap" appears to be damaged or corrupt.
+(pcap: File has 786432-byte packet, bigger than maximum of 262144)
+1430
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1445.pcap" appears to be damaged or corrupt.
+(pcap: File has 3019898880-byte packet, bigger than maximum of 262144)
+1445
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1500.pcap" appears to be damaged or corrupt.
+(pcap: File has 811822701-byte packet, bigger than maximum of 262144)
+1500
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1515.pcap" appears to be damaged or corrupt.
+(pcap: File has 3817095168-byte packet, bigger than maximum of 262144)
+1515
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1530.pcap" appears to be damaged or corrupt.
+(pcap: File has 1744830465-byte packet, bigger than maximum of 262144)
+1530
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1545.pcap" appears to have been cut short in the middle of a packet.
+1545
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1600.pcap" appears to be damaged or corrupt.
+(pcap: File has 2154299392-byte packet, bigger than maximum of 262144)
+1600
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1615.pcap" appears to be damaged or corrupt.
+(pcap: File has 1428203712-byte packet, bigger than maximum of 262144)
+1615
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1630.pcap" appears to be damaged or corrupt.
+(pcap: File has 470752271-byte packet, bigger than maximum of 262144)
+1630
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1645.pcap" appears to be damaged or corrupt.
+(pcap: File has 7222804-byte packet, bigger than maximum of 262144)
+1645
+tshark: The file "/home/octeam/Logs/FeG1/20200525_1700.pcap" appears to be damaged or corrupt.
+(pcap: File has 811822701-byte packet, bigger than maximum of 262144)
+1700
+1715
+1730
+1745
+1800
+1815
+1830
+1845
+1900
+1915
+1930
+1945
+2000
+2015
+2030
+2045
+2100
+2115
+2130
+tshark: The file "/home/octeam/Logs/FeG1/20200525_2145.pcap" appears to be damaged or corrupt.
+(pcap: File has 187667038-byte packet, bigger than maximum of 262144)
+2145
+tshark: The file "/home/octeam/Logs/FeG1/20200525_2200.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668296192-byte packet, bigger than maximum of 262144)
+2200
+tshark: The file "/home/octeam/Logs/FeG1/20200525_2215.pcap" appears to be damaged or corrupt.
+(pcap: File has 117440524-byte packet, bigger than maximum of 262144)
+2215
+tshark: The file "/home/octeam/Logs/FeG1/20200525_2230.pcap" appears to be damaged or corrupt.
+(pcap: File has 1919889003-byte packet, bigger than maximum of 262144)
+2230
+tshark: The file "/home/octeam/Logs/FeG1/20200525_2245.pcap" appears to be damaged or corrupt.
+(pcap: File has 1444473-byte packet, bigger than maximum of 262144)
+2245
+tshark: The file "/home/octeam/Logs/FeG1/20200525_2300.pcap" appears to be damaged or corrupt.
+(pcap: File has 520093760-byte packet, bigger than maximum of 262144)
+2300
+tshark: The file "/home/octeam/Logs/FeG1/20200525_2315.pcap" appears to be damaged or corrupt.
+(pcap: File has 939527908-byte packet, bigger than maximum of 262144)
+2315
+tshark: The file "/home/octeam/Logs/FeG1/20200525_2330.pcap" appears to be damaged or corrupt.
+(pcap: File has 1883439104-byte packet, bigger than maximum of 262144)
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200526_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200526_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200526_0-55.pcap" doesn't exist.
+0-55
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0000.pcap" appears to be damaged or corrupt.
+(pcap: File has 470752527-byte packet, bigger than maximum of 262144)
+0000
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0015.pcap" appears to be damaged or corrupt.
+(pcap: File has 3435265119-byte packet, bigger than maximum of 262144)
+0015
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0030.pcap" appears to be damaged or corrupt.
+(pcap: File has 2013266688-byte packet, bigger than maximum of 262144)
+0030
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0045.pcap" appears to be damaged or corrupt.
+(pcap: File has 470752783-byte packet, bigger than maximum of 262144)
+0045
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0100.pcap" appears to be damaged or corrupt.
+(pcap: File has 3003531008-byte packet, bigger than maximum of 262144)
+0100
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0115.pcap" appears to be damaged or corrupt.
+(pcap: File has 1919889003-byte packet, bigger than maximum of 262144)
+0115
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0130.pcap" appears to be damaged or corrupt.
+(pcap: File has 201392128-byte packet, bigger than maximum of 262144)
+0130
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0145.pcap" appears to be damaged or corrupt.
+(pcap: File has 1536592686-byte packet, bigger than maximum of 262144)
+0145
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0200.pcap" appears to be damaged or corrupt.
+(pcap: File has 1936943149-byte packet, bigger than maximum of 262144)
+0200
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0215.pcap" appears to be damaged or corrupt.
+(pcap: File has 407935461-byte packet, bigger than maximum of 262144)
+0215
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0230.pcap" appears to be damaged or corrupt.
+(pcap: File has 3255189248-byte packet, bigger than maximum of 262144)
+0230
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0245.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777425-byte packet, bigger than maximum of 262144)
+0245
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0300.pcap" appears to be damaged or corrupt.
+(pcap: File has 201326656-byte packet, bigger than maximum of 262144)
+0300
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0315.pcap" appears to be damaged or corrupt.
+(pcap: File has 3529889756-byte packet, bigger than maximum of 262144)
+0315
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0330.pcap" appears to be damaged or corrupt.
+(pcap: File has 6779503-byte packet, bigger than maximum of 262144)
+0330
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0345.pcap" appears to be damaged or corrupt.
+(pcap: File has 2147876865-byte packet, bigger than maximum of 262144)
+0345
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0400.pcap" appears to be damaged or corrupt.
+(pcap: File has 3218525981-byte packet, bigger than maximum of 262144)
+0400
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0415.pcap" appears to be damaged or corrupt.
+(pcap: File has 825255781-byte packet, bigger than maximum of 262144)
+0415
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0430.pcap" appears to be damaged or corrupt.
+(pcap: File has 16842752-byte packet, bigger than maximum of 262144)
+0430
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0445.pcap" appears to be damaged or corrupt.
+(pcap: File has 11010048-byte packet, bigger than maximum of 262144)
+0445
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0500.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777425-byte packet, bigger than maximum of 262144)
+0500
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0515.pcap" appears to be damaged or corrupt.
+(pcap: File has 100663552-byte packet, bigger than maximum of 262144)
+0515
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0530.pcap" appears to be damaged or corrupt.
+(pcap: File has 825241699-byte packet, bigger than maximum of 262144)
+0530
+0545
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0600.pcap" appears to be damaged or corrupt.
+(pcap: File has 381671119-byte packet, bigger than maximum of 262144)
+0600
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0615.pcap" appears to be damaged or corrupt.
+(pcap: File has 1074225982-byte packet, bigger than maximum of 262144)
+0615
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0630.pcap" appears to be damaged or corrupt.
+(pcap: File has 779249012-byte packet, bigger than maximum of 262144)
+0630
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0645.pcap" appears to be damaged or corrupt.
+(pcap: File has 1919889003-byte packet, bigger than maximum of 262144)
+0645
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0700.pcap" appears to be damaged or corrupt.
+(pcap: File has 547930233-byte packet, bigger than maximum of 262144)
+0700
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0715.pcap" appears to be damaged or corrupt.
+(pcap: File has 7102819-byte packet, bigger than maximum of 262144)
+0715
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0730.pcap" appears to be damaged or corrupt.
+(pcap: File has 2157064118-byte packet, bigger than maximum of 262144)
+0730
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0745.pcap" appears to be damaged or corrupt.
+(pcap: File has 1941397197-byte packet, bigger than maximum of 262144)
+0745
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0800.pcap" appears to be damaged or corrupt.
+(pcap: File has 808477539-byte packet, bigger than maximum of 262144)
+0800
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0815.pcap" appears to be damaged or corrupt.
+(pcap: File has 1697539698-byte packet, bigger than maximum of 262144)
+0815
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0830.pcap" appears to be damaged or corrupt.
+(pcap: File has 774975536-byte packet, bigger than maximum of 262144)
+0830
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0845.pcap" appears to be damaged or corrupt.
+(pcap: File has 1831756656-byte packet, bigger than maximum of 262144)
+0845
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0900.pcap" appears to be damaged or corrupt.
+(pcap: File has 2890472975-byte packet, bigger than maximum of 262144)
+0900
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0915.pcap" appears to be damaged or corrupt.
+(pcap: File has 4107361-byte packet, bigger than maximum of 262144)
+0915
+tshark: The file "/home/octeam/Logs/FeG1/20200526_0930.pcap" appears to be damaged or corrupt.
+(pcap: File has 470752783-byte packet, bigger than maximum of 262144)
+0930
+0945
+1000
+1015
+1030
+1045
+1100
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1115.pcap" appears to be damaged or corrupt.
+(pcap: File has 4194765863-byte packet, bigger than maximum of 262144)
+1115
+1130
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1145.pcap" appears to be damaged or corrupt.
+(pcap: File has 1444473-byte packet, bigger than maximum of 262144)
+1145
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1200.pcap" appears to be damaged or corrupt.
+(pcap: File has 2831186198-byte packet, bigger than maximum of 262144)
+1200
+1215
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1230.pcap" appears to be damaged or corrupt.
+(pcap: File has 289341440-byte packet, bigger than maximum of 262144)
+1230
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1245.pcap" appears to be damaged or corrupt.
+(pcap: File has 2056985615-byte packet, bigger than maximum of 262144)
+1245
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1300.pcap" appears to be damaged or corrupt.
+(pcap: File has 1852716564-byte packet, bigger than maximum of 262144)
+1300
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1315.pcap" appears to be damaged or corrupt.
+(pcap: File has 327078-byte packet, bigger than maximum of 262144)
+1315
+1330
+1345
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1400.pcap" appears to be damaged or corrupt.
+(pcap: File has 501252102-byte packet, bigger than maximum of 262144)
+1400
+1415
+1430
+1445
+1500
+1515
+1530
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1545.pcap" appears to be damaged or corrupt.
+(pcap: File has 4366029-byte packet, bigger than maximum of 262144)
+1545
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1600.pcap" appears to be damaged or corrupt.
+(pcap: File has 1088861616-byte packet, bigger than maximum of 262144)
+1600
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1615.pcap" appears to be damaged or corrupt.
+(pcap: File has 370543189-byte packet, bigger than maximum of 262144)
+1615
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1630.pcap" appears to be damaged or corrupt.
+(pcap: File has 1073758377-byte packet, bigger than maximum of 262144)
+1630
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1645.pcap" appears to be damaged or corrupt.
+(pcap: File has 134217838-byte packet, bigger than maximum of 262144)
+1645
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1700.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777216-byte packet, bigger than maximum of 262144)
+1700
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1715.pcap" appears to be damaged or corrupt.
+(pcap: File has 1911692-byte packet, bigger than maximum of 262144)
+1715
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1730.pcap" appears to be damaged or corrupt.
+(pcap: File has 7102819-byte packet, bigger than maximum of 262144)
+1730
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1745.pcap" appears to be damaged or corrupt.
+(pcap: File has 1802661751-byte packet, bigger than maximum of 262144)
+1745
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1800.pcap" appears to be damaged or corrupt.
+(pcap: File has 3117746696-byte packet, bigger than maximum of 262144)
+1800
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1815.pcap" appears to be damaged or corrupt.
+(pcap: File has 1663984502-byte packet, bigger than maximum of 262144)
+1815
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1830.pcap" appears to be damaged or corrupt.
+(pcap: File has 1852686294-byte packet, bigger than maximum of 262144)
+1830
+1845
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1900.pcap" appears to be damaged or corrupt.
+(pcap: File has 1084096768-byte packet, bigger than maximum of 262144)
+1900
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1915.pcap" appears to be damaged or corrupt.
+(pcap: File has 12643843-byte packet, bigger than maximum of 262144)
+1915
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1930.pcap" appears to be damaged or corrupt.
+(pcap: File has 1832583168-byte packet, bigger than maximum of 262144)
+1930
+tshark: The file "/home/octeam/Logs/FeG1/20200526_1945.pcap" appears to be damaged or corrupt.
+(pcap: File has 842084656-byte packet, bigger than maximum of 262144)
+1945
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2000.pcap" appears to be damaged or corrupt.
+(pcap: File has 7222804-byte packet, bigger than maximum of 262144)
+2000
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2015.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668181294-byte packet, bigger than maximum of 262144)
+2015
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2030.pcap" appears to be damaged or corrupt.
+(pcap: File has 1634559841-byte packet, bigger than maximum of 262144)
+2030
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2045.pcap" appears to be damaged or corrupt.
+(pcap: File has 4202797-byte packet, bigger than maximum of 262144)
+2045
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2100.pcap" appears to be damaged or corrupt.
+(pcap: File has 3618570240-byte packet, bigger than maximum of 262144)
+2100
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2115.pcap" appears to be damaged or corrupt.
+(pcap: File has 3070230746-byte packet, bigger than maximum of 262144)
+2115
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2130.pcap" appears to be damaged or corrupt.
+(pcap: File has 1831756656-byte packet, bigger than maximum of 262144)
+2130
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2145.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668246574-byte packet, bigger than maximum of 262144)
+2145
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2200.pcap" appears to be damaged or corrupt.
+(pcap: File has 2031490570-byte packet, bigger than maximum of 262144)
+2200
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2215.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668707118-byte packet, bigger than maximum of 262144)
+2215
+2230
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2245.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668246574-byte packet, bigger than maximum of 262144)
+2245
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2300.pcap" appears to be damaged or corrupt.
+(pcap: File has 67108864-byte packet, bigger than maximum of 262144)
+2300
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2315.pcap" appears to be damaged or corrupt.
+(pcap: File has 369756827-byte packet, bigger than maximum of 262144)
+2315
+tshark: The file "/home/octeam/Logs/FeG1/20200526_2330.pcap" appears to be damaged or corrupt.
+(pcap: File has 504321312-byte packet, bigger than maximum of 262144)
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200527_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200527_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200527_0-55.pcap" doesn't exist.
+0-55
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0000.pcap" appears to be damaged or corrupt.
+(pcap: File has 100663552-byte packet, bigger than maximum of 262144)
+0000
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0015.pcap" appears to be damaged or corrupt.
+(pcap: File has 829449331-byte packet, bigger than maximum of 262144)
+0015
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0030.pcap" appears to be damaged or corrupt.
+(pcap: File has 201326656-byte packet, bigger than maximum of 262144)
+0030
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0045.pcap" appears to be damaged or corrupt.
+(pcap: File has 654311488-byte packet, bigger than maximum of 262144)
+0045
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0100.pcap" appears to be damaged or corrupt.
+(pcap: File has 370543189-byte packet, bigger than maximum of 262144)
+0100
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0115.pcap" appears to be damaged or corrupt.
+(pcap: File has 16842752-byte packet, bigger than maximum of 262144)
+0115
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0130.pcap" appears to be damaged or corrupt.
+(pcap: File has 589293773-byte packet, bigger than maximum of 262144)
+0130
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0145.pcap" appears to be damaged or corrupt.
+(pcap: File has 2004116846-byte packet, bigger than maximum of 262144)
+0145
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0200.pcap" appears to be damaged or corrupt.
+(pcap: File has 67108864-byte packet, bigger than maximum of 262144)
+0200
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0215.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885811502-byte packet, bigger than maximum of 262144)
+0215
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0230.pcap" appears to be damaged or corrupt.
+(pcap: File has 812605134-byte packet, bigger than maximum of 262144)
+0230
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0245.pcap" appears to be damaged or corrupt.
+(pcap: File has 3321894410-byte packet, bigger than maximum of 262144)
+0245
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0300.pcap" appears to be damaged or corrupt.
+(pcap: File has 42221568-byte packet, bigger than maximum of 262144)
+0300
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0315.pcap" appears to be damaged or corrupt.
+(pcap: File has 1074528512-byte packet, bigger than maximum of 262144)
+0315
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0330.pcap" appears to be damaged or corrupt.
+(pcap: File has 2666534406-byte packet, bigger than maximum of 262144)
+0330
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0345.pcap" appears to be damaged or corrupt.
+(pcap: File has 1932419437-byte packet, bigger than maximum of 262144)
+0345
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0400.pcap" appears to be damaged or corrupt.
+(pcap: File has 2502769446-byte packet, bigger than maximum of 262144)
+0400
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0415.pcap" appears to be damaged or corrupt.
+(pcap: File has 795520005-byte packet, bigger than maximum of 262144)
+0415
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0430.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668246574-byte packet, bigger than maximum of 262144)
+0430
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0445.pcap" appears to be damaged or corrupt.
+(pcap: File has 779249012-byte packet, bigger than maximum of 262144)
+0445
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0500.pcap" appears to be damaged or corrupt.
+(pcap: File has 13698816-byte packet, bigger than maximum of 262144)
+0500
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0515.pcap" appears to be damaged or corrupt.
+(pcap: File has 671154176-byte packet, bigger than maximum of 262144)
+0515
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0530.pcap" appears to be damaged or corrupt.
+(pcap: File has 1886414643-byte packet, bigger than maximum of 262144)
+0530
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0545.pcap" appears to be damaged or corrupt.
+(pcap: File has 1590583509-byte packet, bigger than maximum of 262144)
+0545
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0600.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885811502-byte packet, bigger than maximum of 262144)
+0600
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0615.pcap" appears to be damaged or corrupt.
+(pcap: File has 257237160-byte packet, bigger than maximum of 262144)
+0615
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0630.pcap" appears to be damaged or corrupt.
+(pcap: File has 134217919-byte packet, bigger than maximum of 262144)
+0630
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0645.pcap" appears to be damaged or corrupt.
+(pcap: File has 2004116846-byte packet, bigger than maximum of 262144)
+0645
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0700.pcap" appears to be damaged or corrupt.
+(pcap: File has 904118-byte packet, bigger than maximum of 262144)
+0700
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0715.pcap" appears to be damaged or corrupt.
+(pcap: File has 1633906540-byte packet, bigger than maximum of 262144)
+0715
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0730.pcap" appears to be damaged or corrupt.
+(pcap: File has 1667460398-byte packet, bigger than maximum of 262144)
+0730
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0745.pcap" appears to be damaged or corrupt.
+(pcap: File has 134283264-byte packet, bigger than maximum of 262144)
+0745
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0800.pcap" appears to be damaged or corrupt.
+(pcap: File has 3464524831-byte packet, bigger than maximum of 262144)
+0800
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0815.pcap" appears to be damaged or corrupt.
+(pcap: File has 4194304000-byte packet, bigger than maximum of 262144)
+0815
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0830.pcap" appears to be damaged or corrupt.
+(pcap: File has 1214172807-byte packet, bigger than maximum of 262144)
+0830
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0845.pcap" appears to be damaged or corrupt.
+(pcap: File has 470752271-byte packet, bigger than maximum of 262144)
+0845
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0900.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668246574-byte packet, bigger than maximum of 262144)
+0900
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0915.pcap" appears to be damaged or corrupt.
+(pcap: File has 1744830465-byte packet, bigger than maximum of 262144)
+0915
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0930.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885811502-byte packet, bigger than maximum of 262144)
+0930
+tshark: The file "/home/octeam/Logs/FeG1/20200527_0945.pcap" appears to be damaged or corrupt.
+(pcap: File has 2003316736-byte packet, bigger than maximum of 262144)
+0945
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1000.pcap" appears to be damaged or corrupt.
+(pcap: File has 3373281-byte packet, bigger than maximum of 262144)
+1000
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1015.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777216-byte packet, bigger than maximum of 262144)
+1015
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1030.pcap" appears to be damaged or corrupt.
+(pcap: File has 134283264-byte packet, bigger than maximum of 262144)
+1030
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1045.pcap" appears to be damaged or corrupt.
+(pcap: File has 842019120-byte packet, bigger than maximum of 262144)
+1045
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1100.pcap" appears to be damaged or corrupt.
+(pcap: File has 402718720-byte packet, bigger than maximum of 262144)
+1100
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1115.pcap" appears to be damaged or corrupt.
+(pcap: File has 1865313138-byte packet, bigger than maximum of 262144)
+1115
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1130.pcap" appears to be damaged or corrupt.
+(pcap: File has 104138304-byte packet, bigger than maximum of 262144)
+1130
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1145.pcap" appears to be damaged or corrupt.
+(pcap: File has 1830748160-byte packet, bigger than maximum of 262144)
+1145
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1200.pcap" appears to be damaged or corrupt.
+(pcap: File has 2743861251-byte packet, bigger than maximum of 262144)
+1200
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1215.pcap" appears to be damaged or corrupt.
+(pcap: File has 201326656-byte packet, bigger than maximum of 262144)
+1215
+1230
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1245.pcap" appears to be damaged or corrupt.
+(pcap: File has 1970037550-byte packet, bigger than maximum of 262144)
+1245
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1300.pcap" appears to be damaged or corrupt.
+(pcap: File has 179872900-byte packet, bigger than maximum of 262144)
+1300
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1315.pcap" appears to be damaged or corrupt.
+(pcap: File has 1702130549-byte packet, bigger than maximum of 262144)
+1315
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1330.pcap" appears to be damaged or corrupt.
+(pcap: File has 1731407409-byte packet, bigger than maximum of 262144)
+1330
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1345.pcap" appears to be damaged or corrupt.
+(pcap: File has 1831756656-byte packet, bigger than maximum of 262144)
+1345
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1400.pcap" appears to be damaged or corrupt.
+(pcap: File has 1444473-byte packet, bigger than maximum of 262144)
+1400
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1415.pcap" appears to be damaged or corrupt.
+(pcap: File has 1157630054-byte packet, bigger than maximum of 262144)
+1415
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1430.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668099633-byte packet, bigger than maximum of 262144)
+1430
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1445.pcap" appears to be damaged or corrupt.
+(pcap: File has 2364638271-byte packet, bigger than maximum of 262144)
+1445
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1500.pcap" appears to be damaged or corrupt.
+(pcap: File has 501252102-byte packet, bigger than maximum of 262144)
+1500
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1515.pcap" appears to be damaged or corrupt.
+(pcap: File has 16810088-byte packet, bigger than maximum of 262144)
+1515
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1530.pcap" appears to be damaged or corrupt.
+(pcap: File has 774975536-byte packet, bigger than maximum of 262144)
+1530
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1545.pcap" appears to be damaged or corrupt.
+(pcap: File has 1835491693-byte packet, bigger than maximum of 262144)
+1545
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1600.pcap" appears to be damaged or corrupt.
+(pcap: File has 370543302-byte packet, bigger than maximum of 262144)
+1600
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1615.pcap" appears to be damaged or corrupt.
+(pcap: File has 2818572458-byte packet, bigger than maximum of 262144)
+1615
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1630.pcap" appears to be damaged or corrupt.
+(pcap: File has 3495309849-byte packet, bigger than maximum of 262144)
+1630
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1645.pcap" appears to be damaged or corrupt.
+(pcap: File has 778793583-byte packet, bigger than maximum of 262144)
+1645
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1700.pcap" appears to be damaged or corrupt.
+(pcap: File has 1701736560-byte packet, bigger than maximum of 262144)
+1700
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1715.pcap" appears to be damaged or corrupt.
+(pcap: File has 1573120-byte packet, bigger than maximum of 262144)
+1715
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1730.pcap" appears to be damaged or corrupt.
+(pcap: File has 1987260001-byte packet, bigger than maximum of 262144)
+1730
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1745.pcap" appears to be damaged or corrupt.
+(pcap: File has 1590626710-byte packet, bigger than maximum of 262144)
+1745
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1800.pcap" appears to be damaged or corrupt.
+(pcap: File has 1830748160-byte packet, bigger than maximum of 262144)
+1800
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1815.pcap" appears to be damaged or corrupt.
+(pcap: File has 842019120-byte packet, bigger than maximum of 262144)
+1815
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1830.pcap" appears to be damaged or corrupt.
+(pcap: File has 1157629958-byte packet, bigger than maximum of 262144)
+1830
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1845.pcap" appears to be damaged or corrupt.
+(pcap: File has 67108864-byte packet, bigger than maximum of 262144)
+1845
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1900.pcap" appears to be damaged or corrupt.
+(pcap: File has 706236632-byte packet, bigger than maximum of 262144)
+1900
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1915.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777216-byte packet, bigger than maximum of 262144)
+1915
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1930.pcap" appears to be damaged or corrupt.
+(pcap: File has 836438536-byte packet, bigger than maximum of 262144)
+1930
+tshark: The file "/home/octeam/Logs/FeG1/20200527_1945.pcap" appears to be damaged or corrupt.
+(pcap: File has 779249012-byte packet, bigger than maximum of 262144)
+1945
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2000.pcap" appears to be damaged or corrupt.
+(pcap: File has 547930233-byte packet, bigger than maximum of 262144)
+2000
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2015.pcap" appears to be damaged or corrupt.
+(pcap: File has 1428203712-byte packet, bigger than maximum of 262144)
+2015
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2030.pcap" appears to be damaged or corrupt.
+(pcap: File has 1747810152-byte packet, bigger than maximum of 262144)
+2030
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2045.pcap" appears to be damaged or corrupt.
+(pcap: File has 1157629952-byte packet, bigger than maximum of 262144)
+2045
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2100.pcap" appears to be damaged or corrupt.
+(pcap: File has 1831756656-byte packet, bigger than maximum of 262144)
+2100
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2115.pcap" appears to be damaged or corrupt.
+(pcap: File has 1885811502-byte packet, bigger than maximum of 262144)
+2115
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2130.pcap" appears to be damaged or corrupt.
+(pcap: File has 778270323-byte packet, bigger than maximum of 262144)
+2130
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2145.pcap" appears to be damaged or corrupt.
+(pcap: File has 1987260001-byte packet, bigger than maximum of 262144)
+2145
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2200.pcap" appears to be damaged or corrupt.
+(pcap: File has 774975536-byte packet, bigger than maximum of 262144)
+2200
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2215.pcap" appears to be damaged or corrupt.
+(pcap: File has 1952804464-byte packet, bigger than maximum of 262144)
+2215
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2230.pcap" appears to be damaged or corrupt.
+(pcap: File has 1713831936-byte packet, bigger than maximum of 262144)
+2230
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2245.pcap" appears to be damaged or corrupt.
+(pcap: File has 939524096-byte packet, bigger than maximum of 262144)
+2245
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2300.pcap" appears to be damaged or corrupt.
+(pcap: File has 3844866048-byte packet, bigger than maximum of 262144)
+2300
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2315.pcap" appears to be damaged or corrupt.
+(pcap: File has 1685270272-byte packet, bigger than maximum of 262144)
+2315
+tshark: The file "/home/octeam/Logs/FeG1/20200527_2330.pcap" appears to be damaged or corrupt.
+(pcap: File has 117440524-byte packet, bigger than maximum of 262144)
+2330
+tshark: The file "/home/octeam/Logs/CWAG1/20200528_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/CWAG2/20200528_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0-55.pcap" doesn't exist.
+tshark: The file "/home/octeam/Logs/FeG2/20200528_0-55.pcap" doesn't exist.
+0-55
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0000.pcap" appears to be damaged or corrupt.
+(pcap: File has 1831743792-byte packet, bigger than maximum of 262144)
+0000
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0015.pcap" appears to be damaged or corrupt.
+(pcap: File has 119279390-byte packet, bigger than maximum of 262144)
+0015
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0030.pcap" appears to be damaged or corrupt.
+(pcap: File has 1634559841-byte packet, bigger than maximum of 262144)
+0030
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0045.pcap" appears to be damaged or corrupt.
+(pcap: File has 1702130549-byte packet, bigger than maximum of 262144)
+0045
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0100.pcap" appears to be damaged or corrupt.
+(pcap: File has 1818321775-byte packet, bigger than maximum of 262144)
+0100
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0115.pcap" appears to be damaged or corrupt.
+(pcap: File has 1952804464-byte packet, bigger than maximum of 262144)
+0115
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0130.pcap" appears to be damaged or corrupt.
+(pcap: File has 811819885-byte packet, bigger than maximum of 262144)
+0130
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0145.pcap" appears to be damaged or corrupt.
+(pcap: File has 1935350046-byte packet, bigger than maximum of 262144)
+0145
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0200.pcap" appears to be damaged or corrupt.
+(pcap: File has 3670016-byte packet, bigger than maximum of 262144)
+0200
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0215.pcap" appears to be damaged or corrupt.
+(pcap: File has 4208646-byte packet, bigger than maximum of 262144)
+0215
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0230.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777425-byte packet, bigger than maximum of 262144)
+0230
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0245.pcap" appears to be damaged or corrupt.
+(pcap: File has 2600946931-byte packet, bigger than maximum of 262144)
+0245
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0300.pcap" appears to be damaged or corrupt.
+(pcap: File has 639674560-byte packet, bigger than maximum of 262144)
+0300
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0315.pcap" appears to be damaged or corrupt.
+(pcap: File has 1869360754-byte packet, bigger than maximum of 262144)
+0315
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0330.pcap" appears to be damaged or corrupt.
+(pcap: File has 1331894552-byte packet, bigger than maximum of 262144)
+0330
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0345.pcap" appears to be damaged or corrupt.
+(pcap: File has 520093760-byte packet, bigger than maximum of 262144)
+0345
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0400.pcap" appears to be damaged or corrupt.
+(pcap: File has 2218721280-byte packet, bigger than maximum of 262144)
+0400
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0415.pcap" appears to be damaged or corrupt.
+(pcap: File has 1802661751-byte packet, bigger than maximum of 262144)
+0415
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0430.pcap" appears to be damaged or corrupt.
+(pcap: File has 1919889003-byte packet, bigger than maximum of 262144)
+0430
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0445.pcap" appears to be damaged or corrupt.
+(pcap: File has 3321894410-byte packet, bigger than maximum of 262144)
+0445
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0500.pcap" appears to be damaged or corrupt.
+(pcap: File has 1970037550-byte packet, bigger than maximum of 262144)
+0500
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0515.pcap" appears to be damaged or corrupt.
+(pcap: File has 1074528512-byte packet, bigger than maximum of 262144)
+0515
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0530.pcap" appears to be damaged or corrupt.
+(pcap: File has 1157629952-byte packet, bigger than maximum of 262144)
+0530
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0545.pcap" appears to be damaged or corrupt.
+(pcap: File has 12582921-byte packet, bigger than maximum of 262144)
+0545
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0600.pcap" appears to be damaged or corrupt.
+(pcap: File has 2601461204-byte packet, bigger than maximum of 262144)
+0600
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0615.pcap" appears to be damaged or corrupt.
+(pcap: File has 2886015056-byte packet, bigger than maximum of 262144)
+0615
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0630.pcap" appears to be damaged or corrupt.
+(pcap: File has 1744830465-byte packet, bigger than maximum of 262144)
+0630
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0645.pcap" appears to be damaged or corrupt.
+(pcap: File has 3603897824-byte packet, bigger than maximum of 262144)
+0645
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0700.pcap" appears to be damaged or corrupt.
+(pcap: File has 825241699-byte packet, bigger than maximum of 262144)
+0700
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0715.pcap" appears to be damaged or corrupt.
+(pcap: File has 10486016-byte packet, bigger than maximum of 262144)
+0715
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0730.pcap" appears to be damaged or corrupt.
+(pcap: File has 1663984502-byte packet, bigger than maximum of 262144)
+0730
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0745.pcap" appears to be damaged or corrupt.
+(pcap: File has 858665264-byte packet, bigger than maximum of 262144)
+0745
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0800.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668310313-byte packet, bigger than maximum of 262144)
+0800
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0815.pcap" appears to be damaged or corrupt.
+(pcap: File has 1668099633-byte packet, bigger than maximum of 262144)
+0815
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0830.pcap" appears to be damaged or corrupt.
+(pcap: File has 253497126-byte packet, bigger than maximum of 262144)
+0830
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0845.pcap" appears to be damaged or corrupt.
+(pcap: File has 1937075299-byte packet, bigger than maximum of 262144)
+0845
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0900.pcap" appears to be damaged or corrupt.
+(pcap: File has 3730504126-byte packet, bigger than maximum of 262144)
+0900
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0915.pcap" appears to be damaged or corrupt.
+(pcap: File has 808477539-byte packet, bigger than maximum of 262144)
+0915
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0930.pcap" appears to be damaged or corrupt.
+(pcap: File has 1886414643-byte packet, bigger than maximum of 262144)
+0930
+tshark: The file "/home/octeam/Logs/FeG1/20200528_0945.pcap" appears to be damaged or corrupt.
+(pcap: File has 1634559841-byte packet, bigger than maximum of 262144)
+0945
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1000.pcap" appears to be damaged or corrupt.
+(pcap: File has 778270323-byte packet, bigger than maximum of 262144)
+1000
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1015.pcap" appears to be damaged or corrupt.
+(pcap: File has 950797584-byte packet, bigger than maximum of 262144)
+1015
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1030.pcap" appears to be damaged or corrupt.
+(pcap: File has 1987260001-byte packet, bigger than maximum of 262144)
+1030
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1045.pcap" appears to be damaged or corrupt.
+(pcap: File has 1157629952-byte packet, bigger than maximum of 262144)
+1045
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1100.pcap" appears to be damaged or corrupt.
+(pcap: File has 134217838-byte packet, bigger than maximum of 262144)
+1100
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1115.pcap" appears to be damaged or corrupt.
+(pcap: File has 3753620-byte packet, bigger than maximum of 262144)
+1115
+1130
+1145
+1200
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1215.pcap" appears to be damaged or corrupt.
+(pcap: File has 1114290-byte packet, bigger than maximum of 262144)
+1215
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1230.pcap" appears to be damaged or corrupt.
+(pcap: File has 10485760-byte packet, bigger than maximum of 262144)
+1230
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1245.pcap" appears to be damaged or corrupt.
+(pcap: File has 4521992-byte packet, bigger than maximum of 262144)
+1245
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1300.pcap" appears to be damaged or corrupt.
+(pcap: File has 4180218028-byte packet, bigger than maximum of 262144)
+1300
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1315.pcap" appears to be damaged or corrupt.
+(pcap: File has 1701736560-byte packet, bigger than maximum of 262144)
+1315
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1330.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777216-byte packet, bigger than maximum of 262144)
+1330
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1345.pcap" appears to be damaged or corrupt.
+(pcap: File has 83939493-byte packet, bigger than maximum of 262144)
+1345
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1400.pcap" appears to be damaged or corrupt.
+(pcap: File has 33555841-byte packet, bigger than maximum of 262144)
+1400
+tshark: The file "/home/octeam/Logs/CWAG2/20200528_1415.pcap" appears to have been cut short in the middle of a packet.
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1415.pcap" appears to be damaged or corrupt.
+(pcap: File has 805306432-byte packet, bigger than maximum of 262144)
+1415
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1430.pcap" appears to be damaged or corrupt.
+(pcap: File has 1919251571-byte packet, bigger than maximum of 262144)
+1430
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1445.pcap" appears to be damaged or corrupt.
+(pcap: File has 4196353-byte packet, bigger than maximum of 262144)
+1445
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1500.pcap" appears to be damaged or corrupt.
+(pcap: File has 825241699-byte packet, bigger than maximum of 262144)
+1500
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1515.pcap" appears to be damaged or corrupt.
+(pcap: File has 2154299392-byte packet, bigger than maximum of 262144)
+1515
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1530.pcap" appears to be damaged or corrupt.
+(pcap: File has 16777340-byte packet, bigger than maximum of 262144)
+1530
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1545.pcap" appears to be damaged or corrupt.
+(pcap: File has 2765954063-byte packet, bigger than maximum of 262144)
+1545
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1600.pcap" appears to be damaged or corrupt.
+(pcap: File has 9552424-byte packet, bigger than maximum of 262144)
+1600
+1615
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1630.pcap" appears to be damaged or corrupt.
+(pcap: File has 3258600738-byte packet, bigger than maximum of 262144)
+1630
+tshark: The file "/home/octeam/Logs/FeG1/20200528_1645.pcap" appears to be damaged or corrupt.
+(pcap: File has 1970037550-byte packet, bigger than maximum of 262144)
+1645

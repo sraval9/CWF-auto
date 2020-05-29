@@ -1,0 +1,7 @@
+#!/usr/bin/expect -f
+spawn ssh-keygen -R 10.22.22.49
+sleep 1
+spawn ssh-copy-id $argv
+expect "prompt\n"
+send "yes\n"
+expect eof

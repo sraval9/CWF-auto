@@ -18,8 +18,9 @@ def main():
     #tshark_command_CWAG2 = 'ssh testuser@10.22.22.49 sudo tcpdump -i any -G 900 -W 1 -U -w - \'port 1812 or port 1813 or port 67 or port 68 or port 9109 or port 8443 or port 50065\' > ' + output_filename_CWAG2 + '.pcap'
     tshark_command_fw_flows = 'ssh adminfb@10.22.2.126 sudo tcpdump -i any -G 900 -W 1 -U -w - \'udp and port 2042\' > ' + output_filename_fw_flows + '.pcap'
     #tshark_command_FeG2 = 'ssh testuser@10.22.22.122 sudo tcpdump -i any -G 900 -W 1 -U -w - \'port 3868\' > ' + output_filename_FeG2 + '.pcap'
-    #kill_tcpdump = 'ssh testuser@10.22.22.121 sudo killall tcpdump'
-    #k1 = subprocess.Popen(kill_tcpdump, shell = True)
+    
+kill_tcpdump = 'ssh testuser@10.22.22.121 sudo killall tcpdump'
+    k1 = subprocess.Popen(kill_tcpdump, shell = True)
     time.sleep(1)
     #FeG_filter = 'port 3868'
 

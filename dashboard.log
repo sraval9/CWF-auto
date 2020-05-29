@@ -15537,3 +15537,11 @@ e4d661dc59ae        facebookconnectivity-magma-docker.jfrog.io/gateway_python:15
 e4d661dc59ae        facebookconnectivity-magma-docker.jfrog.io/gateway_python:154f8beb      "python3.5 -m magma.…"   5 hours ago         Up 5 hours                                 magmad
 
 154f8beb
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 5, 'Accounting Response': 5}
+{'Access Request': 0, 'Access Challange': 0, 'Access Accept': 0, 'Access Reject': 0, 'Accounting Request': 1, 'Accounting Response': 1}
+e4d661dc59ae        facebookconnectivity-magma-docker.jfrog.io/gateway_python:154f8beb      "python3.5 -m magma.…"   5 hours ago         Up 5 hours                                 magmad
+
+154f8beb
+e4d661dc59ae        facebookconnectivity-magma-docker.jfrog.io/gateway_python:154f8beb      "python3.5 -m magma.…"   5 hours ago         Up 5 hours                                 magmad
+
+154f8beb
